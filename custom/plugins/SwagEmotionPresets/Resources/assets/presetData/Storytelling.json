@@ -1,0 +1,1447 @@
+{
+    "showListing": false,
+    "templateId": 1,
+    "active": false,
+    "name": "Storytelling",
+    "position": 1,
+    "device": "0,1,2,3,4",
+    "fullscreen": 1,
+    "isLandingPage": 0,
+    "seoTitle": "",
+    "seoKeywords": "",
+    "seoDescription": "",
+    "rows": 66,
+    "cols": 6,
+    "cellSpacing": 0,
+    "cellHeight": 185,
+    "articleHeight": 2,
+    "mode": "storytelling",
+    "customerStreamIds": null,
+    "replacement": null,
+    "elements": [
+        {
+            "componentId": "emotion-components-banner",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 34,
+                    "startCol": 1,
+                    "endRow": 36,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 34,
+                    "startCol": 1,
+                    "endRow": 36,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 34,
+                    "startCol": 1,
+                    "endRow": 36,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 19,
+                    "startCol": 3,
+                    "endRow": 24,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 19,
+                    "startCol": 3,
+                    "endRow": 24,
+                    "endCol": 6,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerPosition",
+                    "value": "center",
+                    "key": "bannerPosition",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "file",
+                    "value": "c15da1f2b5e5ed6e6837a3802f0d1593",
+                    "key": "file",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerMapping",
+                    "value": "null",
+                    "key": "bannerMapping",
+                    "valueType": "json"
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "link",
+                    "value": "",
+                    "key": "link",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "banner_link_target",
+                    "value": "",
+                    "key": "banner_link_target",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "title",
+                    "value": "",
+                    "key": "title",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-592d95b3371455.52076760"
+        },
+        {
+            "componentId": "emotion-components-banner",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 4,
+                    "startCol": 1,
+                    "endRow": 6,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 4,
+                    "startCol": 1,
+                    "endRow": 6,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 4,
+                    "startCol": 1,
+                    "endRow": 6,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 1,
+                    "startCol": 1,
+                    "endRow": 6,
+                    "endCol": 4,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 1,
+                    "startCol": 1,
+                    "endRow": 6,
+                    "endCol": 4,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerPosition",
+                    "value": "center",
+                    "key": "bannerPosition",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "file",
+                    "value": "68053af2923e00204c3ca7c6a3150cf7",
+                    "key": "file",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerMapping",
+                    "value": "null",
+                    "key": "bannerMapping",
+                    "valueType": "json"
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "link",
+                    "value": "",
+                    "key": "link",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "banner_link_target",
+                    "value": "",
+                    "key": "banner_link_target",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "title",
+                    "value": "",
+                    "key": "title",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-592d95b33715a9.04554395"
+        },
+        {
+            "componentId": "emotion-components-banner",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 13,
+                    "startCol": 1,
+                    "endRow": 15,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 13,
+                    "startCol": 4,
+                    "endRow": 18,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 16,
+                    "startCol": 1,
+                    "endRow": 18,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 10,
+                    "startCol": 1,
+                    "endRow": 12,
+                    "endCol": 4,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 10,
+                    "startCol": 1,
+                    "endRow": 12,
+                    "endCol": 4,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerPosition",
+                    "value": "center",
+                    "key": "bannerPosition",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "file",
+                    "value": "2dace78f80bc92e6d7493423d729448e",
+                    "key": "file",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerMapping",
+                    "value": "null",
+                    "key": "bannerMapping",
+                    "valueType": "json"
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "link",
+                    "value": "",
+                    "key": "link",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "banner_link_target",
+                    "value": "",
+                    "key": "banner_link_target",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "title",
+                    "value": "",
+                    "key": "title",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-592d95b3371693.16745137"
+        },
+        {
+            "componentId": "emotion-sideview-widget",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 25,
+                    "startCol": 1,
+                    "endRow": 30,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 25,
+                    "startCol": 1,
+                    "endRow": 30,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 25,
+                    "startCol": 1,
+                    "endRow": 30,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 16,
+                    "startCol": 1,
+                    "endRow": 18,
+                    "endCol": 4,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 16,
+                    "startCol": 1,
+                    "endRow": 18,
+                    "endCol": 4,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-sideview-widget",
+                    "fieldId": "sideview_banner",
+                    "value": "da8ce53cf0240070ce6c69c48cd588ee",
+                    "key": "sideview_banner",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-sideview-widget",
+                    "fieldId": "sideview_bannerposition",
+                    "value": "center",
+                    "key": "sideview_bannerposition",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-sideview-widget",
+                    "fieldId": "sideview_selectedproducts",
+                    "value": "\"\"",
+                    "key": "sideview_selectedproducts",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-sideview-widget",
+                    "fieldId": "sideview_position",
+                    "value": "bottom",
+                    "key": "sideview_position",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-sideview-widget",
+                    "fieldId": "sideview_size",
+                    "value": "halfsize",
+                    "key": "sideview_size",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-sideview-widget",
+                    "fieldId": "sideview_product_type",
+                    "value": "topseller",
+                    "key": "sideview_product_type",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-sideview-widget",
+                    "fieldId": "sideview_category_id",
+                    "value": "3",
+                    "key": "sideview_category_id",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-sideview-widget",
+                    "fieldId": "sideview_max_products",
+                    "value": "20",
+                    "key": "sideview_max_products",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-sideview-widget",
+                    "fieldId": "sideview_show_arrows",
+                    "value": "",
+                    "key": "sideview_show_arrows",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-sideview-widget",
+                    "fieldId": "sideview_auto_start",
+                    "value": "",
+                    "key": "sideview_auto_start",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-sideview-widget",
+                    "fieldId": "sideview_stream_selection",
+                    "value": "",
+                    "key": "sideview_stream_selection",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-592d95b33717c3.80607851"
+        },
+        {
+            "componentId": "emotion-sideview-widget",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 10,
+                    "startCol": 1,
+                    "endRow": 12,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 10,
+                    "startCol": 1,
+                    "endRow": 12,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 10,
+                    "startCol": 1,
+                    "endRow": 12,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 7,
+                    "startCol": 3,
+                    "endRow": 9,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 7,
+                    "startCol": 3,
+                    "endRow": 9,
+                    "endCol": 6,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-sideview-widget",
+                    "fieldId": "sideview_banner",
+                    "value": "82489c9737cc245530c7a6ebef3753ec",
+                    "key": "sideview_banner",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-sideview-widget",
+                    "fieldId": "sideview_bannerposition",
+                    "value": "center",
+                    "key": "sideview_bannerposition",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-sideview-widget",
+                    "fieldId": "sideview_selectedproducts",
+                    "value": "\"\"",
+                    "key": "sideview_selectedproducts",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-sideview-widget",
+                    "fieldId": "sideview_position",
+                    "value": "bottom",
+                    "key": "sideview_position",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-sideview-widget",
+                    "fieldId": "sideview_size",
+                    "value": "halfsize",
+                    "key": "sideview_size",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-sideview-widget",
+                    "fieldId": "sideview_product_type",
+                    "value": "price_asc",
+                    "key": "sideview_product_type",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-sideview-widget",
+                    "fieldId": "sideview_category_id",
+                    "value": "3",
+                    "key": "sideview_category_id",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-sideview-widget",
+                    "fieldId": "sideview_max_products",
+                    "value": "20",
+                    "key": "sideview_max_products",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-sideview-widget",
+                    "fieldId": "sideview_show_arrows",
+                    "value": "",
+                    "key": "sideview_show_arrows",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-sideview-widget",
+                    "fieldId": "sideview_auto_start",
+                    "value": "",
+                    "key": "sideview_auto_start",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-sideview-widget",
+                    "fieldId": "sideview_stream_selection",
+                    "value": "",
+                    "key": "sideview_stream_selection",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-592d95b33718d3.28772724"
+        },
+        {
+            "componentId": "emotion-digital-publishing",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 1,
+                    "startCol": 1,
+                    "endRow": 3,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 1,
+                    "startCol": 1,
+                    "endRow": 3,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 1,
+                    "startCol": 1,
+                    "endRow": 3,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 1,
+                    "startCol": 5,
+                    "endRow": 6,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 1,
+                    "startCol": 5,
+                    "endRow": 6,
+                    "endCol": 6,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-digital-publishing",
+                    "fieldId": "digital_publishing_banner_id",
+                    "key": "digital_publishing_banner_id",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-digital-publishing",
+                    "fieldId": "digital_publishing_banner_data",
+                    "value": "c9f0f895fb98ab9159f51fd0297e236d",
+                    "key": "digital_publishing_banner_data",
+                    "valueType": "json"
+                }
+            ],
+            "syncKey": "preset-element-592d95b3371945.49222327"
+        },
+        {
+            "componentId": "emotion-digital-publishing",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 31,
+                    "startCol": 1,
+                    "endRow": 33,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 31,
+                    "startCol": 1,
+                    "endRow": 33,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 31,
+                    "startCol": 1,
+                    "endRow": 33,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 19,
+                    "startCol": 1,
+                    "endRow": 24,
+                    "endCol": 2,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 19,
+                    "startCol": 1,
+                    "endRow": 24,
+                    "endCol": 2,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-digital-publishing",
+                    "fieldId": "digital_publishing_banner_id",
+                    "key": "digital_publishing_banner_id",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-digital-publishing",
+                    "fieldId": "digital_publishing_banner_data",
+                    "value": "45c48cce2e2d7fbdea1afc51c7c6ad26",
+                    "key": "digital_publishing_banner_data",
+                    "valueType": "json"
+                }
+            ],
+            "syncKey": "preset-element-592d95b33719c1.99523669"
+        },
+        {
+            "componentId": "emotion-digital-publishing",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 19,
+                    "startCol": 1,
+                    "endRow": 21,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 19,
+                    "startCol": 1,
+                    "endRow": 24,
+                    "endCol": 3,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 19,
+                    "startCol": 1,
+                    "endRow": 21,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 13,
+                    "startCol": 5,
+                    "endRow": 18,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 13,
+                    "startCol": 5,
+                    "endRow": 18,
+                    "endCol": 6,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-digital-publishing",
+                    "fieldId": "digital_publishing_banner_id",
+                    "key": "digital_publishing_banner_id",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-digital-publishing",
+                    "fieldId": "digital_publishing_banner_data",
+                    "value": "d3d9446802a44259755d38e6d163e820",
+                    "key": "digital_publishing_banner_data",
+                    "valueType": "json"
+                }
+            ],
+            "syncKey": "preset-element-592d95b3371a21.20839725"
+        },
+        {
+            "componentId": "emotion-digital-publishing",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 7,
+                    "startCol": 1,
+                    "endRow": 9,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 7,
+                    "startCol": 1,
+                    "endRow": 9,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 7,
+                    "startCol": 1,
+                    "endRow": 9,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 7,
+                    "startCol": 1,
+                    "endRow": 9,
+                    "endCol": 2,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 7,
+                    "startCol": 1,
+                    "endRow": 9,
+                    "endCol": 2,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-digital-publishing",
+                    "fieldId": "digital_publishing_banner_id",
+                    "key": "digital_publishing_banner_id",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-digital-publishing",
+                    "fieldId": "digital_publishing_banner_data",
+                    "value": "6512bd43d9caa6e02c990b0a82652dca",
+                    "key": "digital_publishing_banner_data",
+                    "valueType": "json"
+                }
+            ],
+            "syncKey": "preset-element-592d95b3371a84.62915171"
+        },
+        {
+            "componentId": "emotion-digital-publishing-slider",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 16,
+                    "startCol": 1,
+                    "endRow": 18,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 13,
+                    "startCol": 1,
+                    "endRow": 18,
+                    "endCol": 3,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 22,
+                    "startCol": 1,
+                    "endRow": 24,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 10,
+                    "startCol": 5,
+                    "endRow": 12,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 10,
+                    "startCol": 5,
+                    "endRow": 12,
+                    "endCol": 6,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-digital-publishing-slider",
+                    "fieldId": "digital_publishing_slider_payload",
+                    "value": "[\"c20ad4d76fe97759aa27a0c99bff6710\",\"c51ce410c124a10e0db5e4b97fc2af39\",\"aab3238922bcc25a6f606eb525ffdc56\"]",
+                    "key": "digital_publishing_slider_payload",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-digital-publishing-slider",
+                    "fieldId": "digital_publishing_slider_preview_data",
+                    "key": "digital_publishing_slider_preview_data",
+                    "valueType": "json"
+                },
+                {
+                    "componentId": "emotion-digital-publishing-slider",
+                    "fieldId": "show_arrows",
+                    "value": "1",
+                    "key": "show_arrows",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-digital-publishing-slider",
+                    "fieldId": "show_navigation",
+                    "value": "",
+                    "key": "show_navigation",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-digital-publishing-slider",
+                    "fieldId": "auto_slide",
+                    "value": "",
+                    "key": "auto_slide",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-digital-publishing-slider",
+                    "fieldId": "slide_interval",
+                    "value": "5000",
+                    "key": "slide_interval",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-digital-publishing-slider",
+                    "fieldId": "animation_speed",
+                    "value": "500",
+                    "key": "animation_speed",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-592d95b3371b33.19196346"
+        },
+        {
+            "componentId": "emotion-digital-publishing-slider",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 22,
+                    "startCol": 1,
+                    "endRow": 24,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 19,
+                    "startCol": 4,
+                    "endRow": 24,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 13,
+                    "startCol": 1,
+                    "endRow": 15,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 13,
+                    "startCol": 1,
+                    "endRow": 15,
+                    "endCol": 4,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 13,
+                    "startCol": 1,
+                    "endRow": 15,
+                    "endCol": 4,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-digital-publishing-slider",
+                    "fieldId": "digital_publishing_slider_payload",
+                    "value": "[\"9bf31c7ff062936a96d3c8bd1f8f2ff3\",\"c20ad4d76fe97759aa27a0c99bff6710\",\"c51ce410c124a10e0db5e4b97fc2af39\"]",
+                    "key": "digital_publishing_slider_payload",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-digital-publishing-slider",
+                    "fieldId": "digital_publishing_slider_preview_data",
+                    "key": "digital_publishing_slider_preview_data",
+                    "valueType": "json"
+                },
+                {
+                    "componentId": "emotion-digital-publishing-slider",
+                    "fieldId": "show_arrows",
+                    "value": "1",
+                    "key": "show_arrows",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-digital-publishing-slider",
+                    "fieldId": "show_navigation",
+                    "value": "",
+                    "key": "show_navigation",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-digital-publishing-slider",
+                    "fieldId": "auto_slide",
+                    "value": "",
+                    "key": "auto_slide",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-digital-publishing-slider",
+                    "fieldId": "slide_interval",
+                    "value": "5000",
+                    "key": "slide_interval",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-digital-publishing-slider",
+                    "fieldId": "animation_speed",
+                    "value": "500",
+                    "key": "animation_speed",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-592d95b3371bd0.96455321"
+        }
+    ],
+    "syncData": {
+        "assets": {
+            "c15da1f2b5e5ed6e6837a3802f0d1593": "\/custom\/plugins\/SwagEmotionPresets\/Resources/assets\/media\/Storytelling\/todd-quackenbush-700.jpg",
+            "68053af2923e00204c3ca7c6a3150cf7": "\/custom\/plugins\/SwagEmotionPresets\/Resources/assets\/media\/Storytelling\/matthias-heil-156834.jpg",
+            "2dace78f80bc92e6d7493423d729448e": "\/custom\/plugins\/SwagEmotionPresets\/Resources/assets\/media\/Storytelling\/daniela-90131.jpg",
+            "da8ce53cf0240070ce6c69c48cd588ee": "\/custom\/plugins\/SwagEmotionPresets\/Resources/assets\/media\/Storytelling\/pexels-photo-236780.jpg",
+            "82489c9737cc245530c7a6ebef3753ec": "\/custom\/plugins\/SwagEmotionPresets\/Resources/assets\/media\/Storytelling\/wesual-click-71924.jpg",
+            "df7f28ac89ca37bf1abd2f6c184fe1cf": "\/custom\/plugins\/SwagEmotionPresets\/Resources/assets\/media\/Storytelling\/webvilla-293.jpg",
+            "96ea64f3a1aa2fd00c72faacf0cb8ac9": "\/custom\/plugins\/SwagEmotionPresets\/Resources/assets\/media\/Storytelling\/parsley-seasoning-salad-greens-60639.jpg"
+        },
+        "banners": {
+            "c9f0f895fb98ab9159f51fd0297e236d": {
+                "name": "Teaser recipes",
+                "bgType": "color",
+                "bgOrientation": "center center",
+                "bgMode": "cover",
+                "bgColor": "rgba(94,53,63,1)",
+                "mediaId": null,
+                "layers": [
+                    {
+                        "label": "New level",
+                        "position": 0,
+                        "orientation": "center center",
+                        "width": "auto",
+                        "height": "auto",
+                        "marginTop": 0,
+                        "marginRight": 0,
+                        "marginBottom": 0,
+                        "marginLeft": 0,
+                        "borderRadius": 0,
+                        "bgColor": "",
+                        "link": "",
+                        "elements": [
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 0,
+                                "payload": "{\"text\":\"Recipes\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":70,\"lineHeight\":1,\"fontcolor\":\"#FFFFFF\",\"textfield-19066-inputEl\":\"\",\"orientation\":\"center\",\"fontweight\":true,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-19070-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":0,\"class\":\"\"}"
+                            },
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 1,
+                                "payload": "{\"text\":\"Fresh & light,\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":20,\"lineHeight\":1,\"fontcolor\":\"#FFFFFF\",\"textfield-21062-inputEl\":\"\",\"orientation\":\"center\",\"fontweight\":false,\"fontstyle\":true,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-21066-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":25,\"paddingLeft\":130,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":15,\"class\":\"\"}"
+                            },
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 2,
+                                "payload": "{\"text\":\"typical provencal\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":20,\"lineHeight\":1,\"fontcolor\":\"#FFFFFF\",\"textfield-20776-inputEl\":\"\",\"orientation\":\"left\",\"fontweight\":false,\"fontstyle\":true,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-20780-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":75,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":0,\"class\":\"\"}"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "45c48cce2e2d7fbdea1afc51c7c6ad26": {
+                "name": "Recipes spices",
+                "bgType": "color",
+                "bgOrientation": "center center",
+                "bgMode": "cover",
+                "bgColor": "rgba(94,53,63,1)",
+                "mediaId": null,
+                "layers": [
+                    {
+                        "label": "Fines spices",
+                        "position": 0,
+                        "orientation": "center center",
+                        "width": "auto",
+                        "height": "auto",
+                        "marginTop": 0,
+                        "marginRight": 0,
+                        "marginBottom": 0,
+                        "marginLeft": 0,
+                        "borderRadius": 0,
+                        "bgColor": "",
+                        "link": "",
+                        "elements": [
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 0,
+                                "payload": "{\"text\":\"Finest spices\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":40,\"lineHeight\":1,\"fontcolor\":\"#FFFFFF\",\"textfield-12367-inputEl\":\"\",\"orientation\":\"center\",\"fontweight\":false,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-12371-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":0,\"class\":\"\"}"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "d3d9446802a44259755d38e6d163e820": {
+                "name": "Hokkaido-pumpkin-salad",
+                "bgType": "image",
+                "bgOrientation": "center center",
+                "bgMode": "cover",
+                "bgColor": "",
+                "mediaId": "df7f28ac89ca37bf1abd2f6c184fe1cf",
+                "layers": [
+                    {
+                        "label": "New level",
+                        "position": 0,
+                        "orientation": "center center",
+                        "width": "100%",
+                        "height": "100%",
+                        "marginTop": 0,
+                        "marginRight": 0,
+                        "marginBottom": 0,
+                        "marginLeft": 0,
+                        "borderRadius": 0,
+                        "bgColor": "rgba(94,53,63,.65)",
+                        "link": "",
+                        "elements": []
+                    },
+                    {
+                        "label": "New level",
+                        "position": 1,
+                        "orientation": "center center",
+                        "width": "80%",
+                        "height": "auto",
+                        "marginTop": 0,
+                        "marginRight": 0,
+                        "marginBottom": 0,
+                        "marginLeft": 0,
+                        "borderRadius": 0,
+                        "bgColor": "",
+                        "link": "",
+                        "elements": [
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 0,
+                                "payload": "{\"text\":\"Hokkaido-pumpkin-salad\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":40,\"lineHeight\":1,\"fontcolor\":\"#FFFFFF\",\"textfield-3350-inputEl\":\"\",\"orientation\":\"center\",\"fontweight\":false,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-3354-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":0,\"class\":\"\"}"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "6512bd43d9caa6e02c990b0a82652dca": {
+                "name": "Apple-salmon-soup",
+                "bgType": "image",
+                "bgOrientation": "center center",
+                "bgMode": "cover",
+                "bgColor": "",
+                "mediaId": "96ea64f3a1aa2fd00c72faacf0cb8ac9",
+                "layers": [
+                    {
+                        "label": "New level",
+                        "position": 0,
+                        "orientation": "center center",
+                        "width": "100%",
+                        "height": "100%",
+                        "marginTop": 0,
+                        "marginRight": 0,
+                        "marginBottom": 0,
+                        "marginLeft": 0,
+                        "borderRadius": 0,
+                        "bgColor": "rgba(94,53,63,.65)",
+                        "link": "",
+                        "elements": []
+                    },
+                    {
+                        "label": "Apple-salmon-soup",
+                        "position": 1,
+                        "orientation": "center center",
+                        "width": "80%",
+                        "height": "auto",
+                        "marginTop": 0,
+                        "marginRight": 0,
+                        "marginBottom": 0,
+                        "marginLeft": 0,
+                        "borderRadius": 0,
+                        "bgColor": "",
+                        "link": "",
+                        "elements": [
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 0,
+                                "payload": "{\"text\":\"Apple-salmon-soup\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":40,\"lineHeight\":1.1,\"fontcolor\":\"#FFFFFF\",\"textfield-3801-inputEl\":\"\",\"orientation\":\"center\",\"fontweight\":false,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-3805-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":0,\"class\":\"\"}"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "c20ad4d76fe97759aa27a0c99bff6710": {
+                "name": "Steps recipes",
+                "bgType": "color",
+                "bgOrientation": "center center",
+                "bgMode": "cover",
+                "bgColor": "rgba(94,53,63,1)",
+                "mediaId": null,
+                "layers": [
+                    {
+                        "label": "New level",
+                        "position": 0,
+                        "orientation": "center center",
+                        "width": "70%",
+                        "height": "auto",
+                        "marginTop": 50,
+                        "marginRight": 0,
+                        "marginBottom": 50,
+                        "marginLeft": 0,
+                        "borderRadius": 0,
+                        "bgColor": "",
+                        "link": "",
+                        "elements": [
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 0,
+                                "payload": "{\"text\":\"1.step\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":40,\"lineHeight\":1,\"fontcolor\":\"#FFFFFF\",\"textfield-7639-inputEl\":\"\",\"orientation\":\"left\",\"fontweight\":false,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-7643-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":20,\"class\":\"\"}"
+                            },
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 1,
+                                "payload": "{\"text\":\"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":16,\"lineHeight\":1.6,\"fontcolor\":\"#FFFFFF\",\"textfield-7679-inputEl\":\"\",\"orientation\":\"left\",\"fontweight\":false,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-7683-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":0,\"class\":\"\"}"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "c51ce410c124a10e0db5e4b97fc2af39": {
+                "name": "Step 2 recipe",
+                "bgType": "color",
+                "bgOrientation": "center center",
+                "bgMode": "cover",
+                "bgColor": "rgba(94,53,63,1)",
+                "mediaId": null,
+                "layers": [
+                    {
+                        "label": "New level",
+                        "position": 0,
+                        "orientation": "center center",
+                        "width": "70%",
+                        "height": "auto",
+                        "marginTop": 50,
+                        "marginRight": 0,
+                        "marginBottom": 50,
+                        "marginLeft": 0,
+                        "borderRadius": 0,
+                        "bgColor": "",
+                        "link": "",
+                        "elements": [
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 0,
+                                "payload": "{\"text\":\"2.step\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":40,\"lineHeight\":1,\"fontcolor\":\"#FFFFFF\",\"textfield-4065-inputEl\":\"\",\"orientation\":\"left\",\"fontweight\":false,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-4069-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":20,\"class\":\"\"}"
+                            },
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 1,
+                                "payload": "{\"text\":\"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":16,\"lineHeight\":1.6,\"fontcolor\":\"#FFFFFF\",\"textfield-4146-inputEl\":\"\",\"orientation\":\"left\",\"fontweight\":false,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-4150-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":0,\"class\":\"\"}"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "aab3238922bcc25a6f606eb525ffdc56": {
+                "name": "Recipe2",
+                "bgType": "color",
+                "bgOrientation": "center center",
+                "bgMode": "cover",
+                "bgColor": "rgba(94,53,63,1)",
+                "mediaId": null,
+                "layers": [
+                    {
+                        "label": "New level",
+                        "position": 0,
+                        "orientation": "center center",
+                        "width": "75%",
+                        "height": "auto",
+                        "marginTop": 0,
+                        "marginRight": 0,
+                        "marginBottom": 10,
+                        "marginLeft": 0,
+                        "borderRadius": 0,
+                        "bgColor": "",
+                        "link": "",
+                        "elements": [
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 0,
+                                "payload": "{\"text\":\"For 4 friends\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":40,\"lineHeight\":1,\"fontcolor\":\"#FFFFFF\",\"textfield-4960-inputEl\":\"\",\"orientation\":\"center\",\"fontweight\":false,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-4964-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":25,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":25,\"class\":\"\"}"
+                            },
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 1,
+                                "payload": "{\"text\":\"100gr smoked salmon\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":16,\"lineHeight\":1,\"fontcolor\":\"#FFFFFF\",\"textfield-4920-inputEl\":\"\",\"orientation\":\"center\",\"fontweight\":false,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-4924-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":10,\"class\":\"\"}"
+                            },
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 2,
+                                "payload": "{\"text\":\"1 rod of leeks\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":16,\"lineHeight\":1,\"fontcolor\":\"#FFFFFF\",\"textfield-4880-inputEl\":\"\",\"orientation\":\"center\",\"fontweight\":false,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-4884-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":10,\"class\":\"\"}"
+                            },
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 3,
+                                "payload": "{\"text\":\"1 apple\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":16,\"lineHeight\":1,\"fontcolor\":\"#FFFFFF\",\"textfield-4840-inputEl\":\"\",\"orientation\":\"center\",\"fontweight\":false,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-4844-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":10,\"class\":\"\"}"
+                            },
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 4,
+                                "payload": "{\"text\":\"1/2 onion\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":16,\"lineHeight\":1,\"fontcolor\":\"#FFFFFF\",\"textfield-4800-inputEl\":\"\",\"orientation\":\"center\",\"fontweight\":false,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-4804-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":10,\"class\":\"\"}"
+                            },
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 5,
+                                "payload": "{\"text\":\"1 tbsp butter\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":16,\"lineHeight\":1,\"fontcolor\":\"#FFFFFF\",\"textfield-4760-inputEl\":\"\",\"orientation\":\"center\",\"fontweight\":false,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-4764-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":10,\"class\":\"\"}"
+                            },
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 6,
+                                "payload": "{\"text\":\"50 ml cidre\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":16,\"lineHeight\":1,\"fontcolor\":\"#FFFFFF\",\"textfield-4720-inputEl\":\"\",\"orientation\":\"center\",\"fontweight\":false,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-4724-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":10,\"class\":\"\"}"
+                            },
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 7,
+                                "payload": "{\"text\":\"250 ml cream\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":16,\"lineHeight\":1,\"fontcolor\":\"#FFFFFF\",\"textfield-4680-inputEl\":\"\",\"orientation\":\"center\",\"fontweight\":false,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-4684-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":10,\"class\":\"\"}"
+                            },
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 8,
+                                "payload": "{\"text\":\"Parsley, bay leef, salt and pepper\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":16,\"lineHeight\":1,\"fontcolor\":\"#FFFFFF\",\"textfield-4640-inputEl\":\"\",\"orientation\":\"center\",\"fontweight\":false,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-4644-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":10,\"class\":\"\"}"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "9bf31c7ff062936a96d3c8bd1f8f2ff3": {
+                "name": "Recipe1",
+                "bgType": "color",
+                "bgOrientation": "center center",
+                "bgMode": "cover",
+                "bgColor": "rgba(94,53,63,1)",
+                "mediaId": null,
+                "layers": [
+                    {
+                        "label": "New level",
+                        "position": 0,
+                        "orientation": "center center",
+                        "width": "70%",
+                        "height": "auto",
+                        "marginTop": 0,
+                        "marginRight": 0,
+                        "marginBottom": 10,
+                        "marginLeft": 0,
+                        "borderRadius": 0,
+                        "bgColor": "",
+                        "link": "",
+                        "elements": [
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 0,
+                                "payload": "{\"text\":\"For 4 friends\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":40,\"lineHeight\":1,\"fontcolor\":\"#FFFFFF\",\"textfield-8050-inputEl\":\"\",\"orientation\":\"center\",\"fontweight\":false,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-8054-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":25,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":25,\"class\":\"\"}"
+                            },
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 1,
+                                "payload": "{\"text\":\"1 medium-sized Hokkaido-pumpkin\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":16,\"lineHeight\":1,\"fontcolor\":\"#FFFFFF\",\"textfield-8090-inputEl\":\"\",\"orientation\":\"center\",\"fontweight\":false,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-8094-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":10,\"class\":\"\"}"
+                            },
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 2,
+                                "payload": "{\"text\":\"3 tbsp maple syrup\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":16,\"lineHeight\":1,\"fontcolor\":\"#FFFFFF\",\"textfield-8130-inputEl\":\"\",\"orientation\":\"center\",\"fontweight\":false,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-8134-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":10,\"class\":\"\"}"
+                            },
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 3,
+                                "payload": "{\"text\":\"2 tbsp rape oil\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":16,\"lineHeight\":1,\"fontcolor\":\"#FFFFFF\",\"textfield-8170-inputEl\":\"\",\"orientation\":\"center\",\"fontweight\":false,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-8174-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":10,\"class\":\"\"}"
+                            },
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 4,
+                                "payload": "{\"text\":\"80gr pumpkin seed\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":16,\"lineHeight\":1,\"fontcolor\":\"#FFFFFF\",\"textfield-8210-inputEl\":\"\",\"orientation\":\"center\",\"fontweight\":false,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-8214-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":10,\"class\":\"\"}"
+                            },
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 5,
+                                "payload": "{\"text\":\"2 tbsp vinegar\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":16,\"lineHeight\":1,\"fontcolor\":\"#FFFFFF\",\"textfield-8250-inputEl\":\"\",\"orientation\":\"center\",\"fontweight\":false,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-8254-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":10,\"class\":\"\"}"
+                            },
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 6,
+                                "payload": "{\"text\":\"Salt and curry\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":16,\"lineHeight\":1,\"fontcolor\":\"#FFFFFF\",\"textfield-8290-inputEl\":\"\",\"orientation\":\"center\",\"fontweight\":false,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-8294-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":10,\"class\":\"\"}"
+                            },
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 7,
+                                "payload": "{\"text\":\"\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":16,\"lineHeight\":1,\"fontcolor\":\"#FFFFFF\",\"textfield-8520-inputEl\":\"\",\"orientation\":\"center\",\"fontweight\":false,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-8524-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":15,m\":15,\"class\":\"\"}"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

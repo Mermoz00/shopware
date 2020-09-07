@@ -1,0 +1,1835 @@
+{
+    "showListing": false,
+    "templateId": 1,
+    "active": false,
+    "name": "Small Shops",
+    "position": 1,
+    "device": "0,1,2,3,4",
+    "fullscreen": 1,
+    "isLandingPage": 0,
+    "seoTitle": "",
+    "seoKeywords": "",
+    "seoDescription": "",
+    "rows": 48,
+    "cols": 12,
+    "cellSpacing": 20,
+    "cellHeight": 50,
+    "articleHeight": 2,
+    "mode": "fluid",
+    "customerStreamIds": null,
+    "replacement": null,
+    "elements": [
+        {
+            "componentId": "emotion-components-banner",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 15,
+                    "startCol": 1,
+                    "endRow": 16,
+                    "endCol": 12,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 20,
+                    "startCol": 1,
+                    "endRow": 22,
+                    "endCol": 12,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 1,
+                    "startCol": 1,
+                    "endRow": 1,
+                    "endCol": 1,
+                    "visible": false
+                },
+                {
+                    "alias": "l",
+                    "startRow": 15,
+                    "startCol": 2,
+                    "endRow": 17,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 20,
+                    "startCol": 2,
+                    "endRow": 25,
+                    "endCol": 11,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerPosition",
+                    "value": "center",
+                    "key": "bannerPosition",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "file",
+                    "value": "b86e8d03fe992d1b0e19656875ee557c",
+                    "key": "file",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerMapping",
+                    "value": "[{\"x\":180,\"y\":914,\"width\":4484,\"height\":2529,\"link\":\"\",\"resizerIndex\":1,\"linkLocation\":\"internal\",\"title\":\"\",\"as_tooltip\":0,\"path\":\"\"}]",
+                    "key": "bannerMapping",
+                    "valueType": "json"
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "link",
+                    "value": "",
+                    "key": "link",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "banner_link_target",
+                    "value": "",
+                    "key": "banner_link_target",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "title",
+                    "value": "",
+                    "key": "title",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-5911b2dc720a78.99963503"
+        },
+        {
+            "componentId": "emotion-components-banner",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 2,
+                    "startCol": 1,
+                    "endRow": 3,
+                    "endCol": 12,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 2,
+                    "startCol": 1,
+                    "endRow": 4,
+                    "endCol": 12,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 2,
+                    "startCol": 2,
+                    "endRow": 4,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 2,
+                    "startCol": 2,
+                    "endRow": 4,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 2,
+                    "startCol": 2,
+                    "endRow": 6,
+                    "endCol": 6,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerPosition",
+                    "value": "center",
+                    "key": "bannerPosition",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "file",
+                    "value": "92fb0c6d1758261f10d052e6e2c1123c",
+                    "key": "file",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerMapping",
+                    "value": "[{\"x\":440,\"y\":837,\"width\":2711,\"height\":1528,\"link\":\"\",\"resizerIndex\":2,\"linkLocation\":\"internal\",\"title\":\"\",\"as_tooltip\":0,\"path\":\"\"}]",
+                    "key": "bannerMapping",
+                    "valueType": "json"
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "link",
+                    "value": "",
+                    "key": "link",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "banner_link_target",
+                    "value": "",
+                    "key": "banner_link_target",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "title",
+                    "value": "",
+                    "key": "title",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-5911b2dc720be4.66394163"
+        },
+        {
+            "componentId": "emotion-components-banner",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 24,
+                    "startCol": 1,
+                    "endRow": 26,
+                    "endCol": 12,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 30,
+                    "startCol": 1,
+                    "endRow": 32,
+                    "endCol": 12,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 25,
+                    "startCol": 2,
+                    "endRow": 27,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 25,
+                    "startCol": 2,
+                    "endRow": 28,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 33,
+                    "startCol": 2,
+                    "endRow": 38,
+                    "endCol": 11,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerPosition",
+                    "value": "center",
+                    "key": "bannerPosition",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "file",
+                    "value": "fe8c15fed5f808006ce95eddb7366e35",
+                    "key": "file",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerMapping",
+                    "value": "[{\"x\":2311,\"y\":297,\"width\":1883,\"height\":2051,\"link\":\"\",\"resizerIndex\":0,\"linkLocation\":\"internal\",\"title\":\"\",\"as_tooltip\":0,\"path\":\"\"}]",
+                    "key": "bannerMapping",
+                    "valueType": "json"
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "link",
+                    "value": "",
+                    "key": "link",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "banner_link_target",
+                    "value": "",
+                    "key": "banner_link_target",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "title",
+                    "value": "",
+                    "key": "title",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-5911b2dc720ca7.82578948"
+        },
+        {
+            "componentId": "emotion-components-banner",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 34,
+                    "startCol": 1,
+                    "endRow": 35,
+                    "endCol": 12,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 42,
+                    "startCol": 1,
+                    "endRow": 44,
+                    "endCol": 12,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 39,
+                    "startCol": 2,
+                    "endRow": 41,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 36,
+                    "startCol": 2,
+                    "endRow": 38,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 46,
+                    "startCol": 2,
+                    "endRow": 48,
+                    "endCol": 11,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerPosition",
+                    "value": "center",
+                    "key": "bannerPosition",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "file",
+                    "value": "f7e9050c92a851b0016442ab604b0488",
+                    "key": "file",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerMapping",
+                    "value": "[{\"x\":1235,\"y\":2835,\"width\":1977,\"height\":1271,\"link\":\"\",\"resizerIndex\":8,\"linkLocation\":\"internal\",\"title\":\"\",\"as_tooltip\":0,\"path\":\"\"},{\"x\":1,\"y\":642,\"width\":2541,\"height\":2210,\"link\":\"\",\"resizerIndex\":9,\"linkLocation\":\"internal\",\"title\":\"\",\"as_tooltip\":0,\"path\":\"\"}]",
+                    "key": "bannerMapping",
+                    "valueType": "json"
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "link",
+                    "value": "",
+                    "key": "link",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "banner_link_target",
+                    "value": "",
+                    "key": "banner_link_target",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "title",
+                    "value": "",
+                    "key": "title",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-5911b2dc720d46.96674595"
+        },
+        {
+            "componentId": "emotion-components-banner",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 4,
+                    "startCol": 1,
+                    "endRow": 5,
+                    "endCol": 12,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 5,
+                    "startCol": 1,
+                    "endRow": 7,
+                    "endCol": 12,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 2,
+                    "startCol": 7,
+                    "endRow": 4,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 2,
+                    "startCol": 7,
+                    "endRow": 4,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 2,
+                    "startCol": 7,
+                    "endRow": 6,
+                    "endCol": 11,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerPosition",
+                    "value": "center",
+                    "key": "bannerPosition",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "file",
+                    "value": "362e80d4df43b03ae6d3f8540cd63626",
+                    "key": "file",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerMapping",
+                    "value": "null",
+                    "key": "bannerMapping",
+                    "valueType": "json"
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "link",
+                    "value": "",
+                    "key": "link",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "banner_link_target",
+                    "value": "",
+                    "key": "banner_link_target",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "title",
+                    "value": "",
+                    "key": "title",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-5911b2dc720df2.12351353"
+        },
+        {
+            "componentId": "emotion-components-banner",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 6,
+                    "startCol": 1,
+                    "endRow": 7,
+                    "endCol": 12,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 8,
+                    "startCol": 1,
+                    "endRow": 10,
+                    "endCol": 12,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 5,
+                    "startCol": 2,
+                    "endRow": 7,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 5,
+                    "startCol": 2,
+                    "endRow": 7,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 7,
+                    "startCol": 2,
+                    "endRow": 12,
+                    "endCol": 11,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerPosition",
+                    "value": "bottom center",
+                    "key": "bannerPosition",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "file",
+                    "value": "84f7e69969dea92a925508f7c1f9579a",
+                    "key": "file",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerMapping",
+                    "value": "[{\"x\":20,\"y\":1717,\"width\":3297,\"height\":2577,\"link\":\"\",\"resizerIndex\":6,\"linkLocation\":\"internal\",\"title\":\"\",\"as_tooltip\":0,\"path\":\"\"}]",
+                    "key": "bannerMapping",
+                    "valueType": "json"
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "link",
+                    "value": "",
+                    "key": "link",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "banner_link_target",
+                    "value": "",
+                    "key": "banner_link_target",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "title",
+                    "value": "",
+                    "key": "title",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-5911b2dc720e86.59312013"
+        },
+        {
+            "componentId": "emotion-components-html-element",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 9,
+                    "startCol": 2,
+                    "endRow": 9,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 12,
+                    "startCol": 3,
+                    "endRow": 12,
+                    "endCol": 10,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 9,
+                    "startCol": 4,
+                    "endRow": 9,
+                    "endCol": 9,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 9,
+                    "startCol": 5,
+                    "endRow": 9,
+                    "endCol": 8,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 14,
+                    "startCol": 5,
+                    "endRow": 14,
+                    "endCol": 8,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-components-html-element",
+                    "fieldId": "text",
+                    "value": "<p style=\"text-align: center;\"><span style=\"color: #474f26;\"><strong><span style=\"font-size: xx-large;\">Our products<\/span><\/strong><\/span><\/p>",
+                    "key": "text",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-html-element",
+                    "fieldId": "cms_title",
+                    "value": "",
+                    "key": "cms_title",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-html-element",
+                    "fieldId": "needsNoStyling",
+                    "value": "1",
+                    "key": "needsNoStyling",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-5911b2dc720f02.80914482"
+        },
+        {
+            "componentId": "emotion-components-html-element",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 28,
+                    "startCol": 2,
+                    "endRow": 28,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 24,
+                    "startCol": 3,
+                    "endRow": 24,
+                    "endCol": 10,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 19,
+                    "startCol": 4,
+                    "endRow": 19,
+                    "endCol": 9,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 19,
+                    "startCol": 5,
+                    "endRow": 19,
+                    "endCol": 8,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 27,
+                    "startCol": 5,
+                    "endRow": 27,
+                    "endCol": 8,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-components-html-element",
+                    "fieldId": "text",
+                    "value": "<p style=\"text-align: center;\"><span style=\"font-size: xx-large; color: #474f26;\"><strong>Our topseller<\/strong><\/span><\/p>",
+                    "key": "text",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-html-element",
+                    "fieldId": "cms_title",
+                    "value": "",
+                    "key": "cms_title",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-html-element",
+                    "fieldId": "needsNoStyling",
+                    "value": "1",
+                    "key": "needsNoStyling",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-5911b2dc720f86.67271887"
+        },
+        {
+            "componentId": "emotion-components-html-element",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 18,
+                    "startCol": 2,
+                    "endRow": 18,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 34,
+                    "startCol": 3,
+                    "endRow": 34,
+                    "endCol": 10,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 29,
+                    "startCol": 4,
+                    "endRow": 29,
+                    "endCol": 9,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 30,
+                    "startCol": 5,
+                    "endRow": 30,
+                    "endCol": 8,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 40,
+                    "startCol": 5,
+                    "endRow": 40,
+                    "endCol": 8,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-components-html-element",
+                    "fieldId": "text",
+                    "value": "<p style=\"text-align: center;\"><span style=\"color: #474f26;\"><strong><span style=\"font-size: xx-large;\">Our top products<\/span><\/strong><\/span><\/p>",
+                    "key": "text",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-html-element",
+                    "fieldId": "cms_title",
+                    "value": "",
+                    "key": "cms_title",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-html-element",
+                    "fieldId": "needsNoStyling",
+                    "value": "1",
+                    "key": "needsNoStyling",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-5911b2dc720fe5.01135665"
+        },
+        {
+            "componentId": "emotion-components-article",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 10,
+                    "startCol": 2,
+                    "endRow": 11,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 13,
+                    "startCol": 2,
+                    "endRow": 15,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 10,
+                    "startCol": 2,
+                    "endRow": 13,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 10,
+                    "startCol": 2,
+                    "endRow": 13,
+                    "endCol": 3,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 15,
+                    "startCol": 2,
+                    "endRow": 18,
+                    "endCol": 3,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article_type",
+                    "value": "random_article",
+                    "key": "article_type",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article",
+                    "value": "",
+                    "key": "article",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article_category",
+                    "value": "3",
+                    "key": "article_category",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "productImageOnly",
+                    "value": "1",
+                    "key": "productImageOnly",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "no_border",
+                    "value": "1",
+                    "key": "no_border",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-5911b2dc721083.12921341"
+        },
+        {
+            "componentId": "emotion-components-article",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 10,
+                    "startCol": 7,
+                    "endRow": 11,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 13,
+                    "startCol": 7,
+                    "endRow": 15,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 10,
+                    "startCol": 7,
+                    "endRow": 13,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 10,
+                    "startCol": 4,
+                    "endRow": 13,
+                    "endCol": 5,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 15,
+                    "startCol": 4,
+                    "endRow": 18,
+                    "endCol": 5,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article_type",
+                    "value": "random_article",
+                    "key": "article_type",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article",
+                    "value": "",
+                    "key": "article",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article_category",
+                    "value": "3",
+                    "key": "article_category",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "productImageOnly",
+                    "value": "1",
+                    "key": "productImageOnly",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "no_border",
+                    "value": "1",
+                    "key": "no_border",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-5911b2dc721101.47889764"
+        },
+        {
+            "componentId": "emotion-components-article",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 12,
+                    "startCol": 7,
+                    "endRow": 13,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 16,
+                    "startCol": 7,
+                    "endRow": 18,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 14,
+                    "startCol": 2,
+                    "endRow": 17,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 10,
+                    "startCol": 10,
+                    "endRow": 13,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 15,
+                    "startCol": 8,
+                    "endRow": 18,
+                    "endCol": 9,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article_type",
+                    "value": "random_article",
+                    "key": "article_type",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article",
+                    "value": "",
+                    "key": "article",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article_category",
+                    "value": "3",
+                    "key": "article_category",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "productImageOnly",
+                    "value": "1",
+                    "key": "productImageOnly",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "no_border",
+                    "value": "1",
+                    "key": "no_border",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-5911b2dc721171.78116444"
+        },
+        {
+            "componentId": "emotion-components-article",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 29,
+                    "startCol": 2,
+                    "endRow": 30,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 35,
+                    "startCol": 2,
+                    "endRow": 37,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 30,
+                    "startCol": 2,
+                    "endRow": 33,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 31,
+                    "startCol": 2,
+                    "endRow": 34,
+                    "endCol": 3,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 41,
+                    "startCol": 2,
+                    "endRow": 44,
+                    "endCol": 3,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article_type",
+                    "value": "random_article",
+                    "key": "article_type",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article",
+                    "value": "",
+                    "key": "article",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article_category",
+                    "value": "3",
+                    "key": "article_category",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "productImageOnly",
+                    "value": "1",
+                    "key": "productImageOnly",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "no_border",
+                    "value": "1",
+                    "key": "no_border",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-5911b2dc7211f9.73925661"
+        },
+        {
+            "componentId": "emotion-components-article",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 31,
+                    "startCol": 2,
+                    "endRow": 32,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 38,
+                    "startCol": 2,
+                    "endRow": 40,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 34,
+                    "startCol": 2,
+                    "endRow": 37,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 31,
+                    "startCol": 4,
+                    "endRow": 34,
+                    "endCol": 5,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 41,
+                    "startCol": 4,
+                    "endRow": 44,
+                    "endCol": 5,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article_type",
+                    "value": "random_article",
+                    "key": "article_type",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article",
+                    "value": "",
+                    "key": "article",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article_category",
+                    "value": "3",
+                    "key": "article_category",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "productImageOnly",
+                    "value": "1",
+                    "key": "productImageOnly",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "no_border",
+                    "value": "1",
+                    "key": "no_border",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-5911b2dc721284.67045050"
+        },
+        {
+            "componentId": "emotion-components-article",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 29,
+                    "startCol": 7,
+                    "endRow": 30,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 35,
+                    "startCol": 7,
+                    "endRow": 37,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 30,
+                    "startCol": 7,
+                    "endRow": 33,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 31,
+                    "startCol": 6,
+                    "endRow": 34,
+                    "endCol": 7,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 41,
+                    "startCol": 6,
+                    "endRow": 44,
+                    "endCol": 7,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article_type",
+                    "value": "random_article",
+                    "key": "article_type",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article",
+                    "value": "",
+                    "key": "article",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article_category",
+                    "value": "3",
+                    "key": "article_category",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "productImageOnly",
+                    "value": "1",
+                    "key": "productImageOnly",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "no_border",
+                    "value": "1",
+                    "key": "no_border",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-5911b2dc721309.56797204"
+        },
+        {
+            "componentId": "emotion-components-article",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 31,
+                    "startCol": 7,
+                    "endRow": 32,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 38,
+                    "startCol": 7,
+                    "endRow": 40,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 34,
+                    "startCol": 7,
+                    "endRow": 37,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 31,
+                    "startCol": 8,
+                    "endRow": 34,
+                    "endCol": 9,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 41,
+                    "startCol": 8,
+                    "endRow": 44,
+                    "endCol": 9,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article_type",
+                    "value": "random_article",
+                    "key": "article_type",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article",
+                    "value": "",
+                    "key": "article",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article_category",
+                    "value": "3",
+                    "key": "article_category",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "productImageOnly",
+                    "value": "1",
+                    "key": "productImageOnly",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "no_border",
+                    "value": "1",
+                    "key": "no_border",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-5911b2dc7213a2.58544613"
+        },
+        {
+            "componentId": "emotion-components-article",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 1,
+                    "startCol": 1,
+                    "endRow": 1,
+                    "endCol": 1,
+                    "visible": false
+                },
+                {
+                    "alias": "s",
+                    "startRow": 1,
+                    "startCol": 1,
+                    "endRow": 1,
+                    "endCol": 1,
+                    "visible": false
+                },
+                {
+                    "alias": "m",
+                    "startRow": 14,
+                    "startCol": 7,
+                    "endRow": 17,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 31,
+                    "startCol": 10,
+                    "endRow": 34,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 41,
+                    "startCol": 10,
+                    "endRow": 44,
+                    "endCol": 11,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article_type",
+                    "value": "random_article",
+                    "key": "article_type",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article",
+                    "value": "",
+                    "key": "article",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article_category",
+                    "value": "3",
+                    "key": "article_category",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "productImageOnly",
+                    "value": "1",
+                    "key": "productImageOnly",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "no_border",
+                    "value": "1",
+                    "key": "no_border",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-5911b2dc721422.70366661"
+        },
+        {
+            "componentId": "emotion-components-article",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 12,
+                    "startCol": 2,
+                    "endRow": 13,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 16,
+                    "startCol": 2,
+                    "endRow": 18,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 1,
+                    "startCol": 1,
+                    "endRow": 1,
+                    "endCol": 1,
+                    "visible": false
+                },
+                {
+                    "alias": "l",
+                    "startRow": 10,
+                    "startCol": 8,
+                    "endRow": 13,
+                    "endCol": 9,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 15,
+                    "startCol": 10,
+                    "endRow": 18,
+                    "endCol": 11,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article_type",
+                    "value": "random_article",
+                    "key": "article_type",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article",
+                    "value": "",
+                    "key": "article",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article_category",
+                    "value": "3",
+                    "key": "article_category",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "productImageOnly",
+                    "value": "1",
+                    "key": "productImageOnly",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "no_border",
+                    "value": "1",
+                    "key": "no_border",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-5911b2dc721497.79151735"
+        },
+        {
+            "componentId": "emotion-components-article",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 1,
+                    "startCol": 1,
+                    "endRow": 1,
+                    "endCol": 1,
+                    "visible": false
+                },
+                {
+                    "alias": "s",
+                    "startRow": 1,
+                    "startCol": 1,
+                    "endRow": 1,
+                    "endCol": 1,
+                    "visible": false
+                },
+                {
+                    "alias": "m",
+                    "startRow": 1,
+                    "startCol": 1,
+                    "endRow": 1,
+                    "endCol": 1,
+                    "visible": false
+                },
+                {
+                    "alias": "l",
+                    "startRow": 10,
+                    "startCol": 6,
+                    "endRow": 13,
+                    "endCol": 7,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 15,
+                    "startCol": 6,
+                    "endRow": 18,
+                    "endCol": 7,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article_type",
+                    "value": "random_article",
+                    "key": "article_type",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article",
+                    "value": "",
+                    "key": "article",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "article_category",
+                    "value": "3",
+                    "key": "article_category",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "productImageOnly",
+                    "value": "1",
+                    "key": "productImageOnly",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article",
+                    "fieldId": "no_border",
+                    "value": "1",
+                    "key": "no_border",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-5911b2dc721517.15962695"
+        },
+        {
+            "componentId": "emotion-components-article-slider",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 19,
+                    "startCol": 2,
+                    "endRow": 22,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 25,
+                    "startCol": 2,
+                    "endRow": 28,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 20,
+                    "startCol": 2,
+                    "endRow": 23,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 20,
+                    "startCol": 2,
+                    "endRow": 23,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 28,
+                    "startCol": 2,
+                    "endRow": 31,
+                    "endCol": 11,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-components-article-slider",
+                    "fieldId": "article_slider_type",
+                    "value": "topseller",
+                    "key": "article_slider_type",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article-slider",
+                    "fieldId": "selected_articles",
+                    "value": "||",
+                    "key": "selected_articles",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article-slider",
+                    "fieldId": "article_slider_stream",
+                    "value": null,
+                    "key": "article_slider_stream",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article-slider",
+                    "fieldId": "article_slider_category",
+                    "value": "3",
+                    "key": "article_slider_category",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article-slider",
+                    "fieldId": "article_slider_max_number",
+                    "value": "25",
+                    "key": "article_slider_max_number",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article-slider",
+                    "fieldId": "article_slider_title",
+                    "value": "",
+                    "key": "article_slider_title",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article-slider",
+                    "fieldId": "article_slider_arrows",
+                    "value": "1",
+                    "key": "article_slider_arrows",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article-slider",
+                    "fieldId": "article_slider_scrollspeed",
+                    "value": "500",
+                    "key": "article_slider_scrollspeed",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article-slider",
+                    "fieldId": "article_slider_rotation",
+                    "value": "1",
+                    "key": "article_slider_rotation",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article-slider",
+                    "fieldId": "article_slider_rotatespeed",
+                    "value": "5000",
+                    "key": "article_slider_rotatespeed",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-article-slider",
+                    "fieldId": "no_border",
+                    "value": "1",
+                    "key": "no_border",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-5911b2dc721604.52322807"
+        }
+    ],
+    "syncData": {
+        "assets": {
+            "b86e8d03fe992d1b0e19656875ee557c": "\/custom\/plugins\/SwagEmotionPresets\/Resources/assets\/media\/SmallShops\/teaser-01.jpg",
+            "92fb0c6d1758261f10d052e6e2c1123c": "\/custom\/plugins\/SwagEmotionPresets\/Resources/assets\/media\/SmallShops\/teaser07.jpg",
+            "fe8c15fed5f808006ce95eddb7366e35": "\/custom\/plugins\/SwagEmotionPresets\/Resources/assets\/media\/SmallShops\/teaser05.jpg",
+            "f7e9050c92a851b0016442ab604b0488": "\/custom\/plugins\/SwagEmotionPresets\/Resources/assets\/media\/SmallShops\/teaser11.jpg",
+            "362e80d4df43b03ae6d3f8540cd63626": "\/custom\/plugins\/SwagEmotionPresets\/Resources/assets\/media\/SmallShops\/teaser04.jpg",
+            "84f7e69969dea92a925508f7c1f9579a": "\/custom\/plugins\/SwagEmotionPresets\/Resources/assets\/media\/SmallShops\/teaser02.jpg"
+        }
+    }
+}

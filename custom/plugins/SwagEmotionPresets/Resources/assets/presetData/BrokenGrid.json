@@ -1,0 +1,1617 @@
+{
+    "showListing": false,
+    "templateId": 1,
+    "active": false,
+    "name": "Broken Grid",
+    "position": 1,
+    "device": "0,1,2,3,4",
+    "fullscreen": 1,
+    "isLandingPage": 0,
+    "seoTitle": "",
+    "seoKeywords": "",
+    "seoDescription": "",
+    "rows": 44,
+    "cols": 12,
+    "cellSpacing": 10,
+    "cellHeight": 150,
+    "articleHeight": 2,
+    "mode": "fluid",
+    "customerStreamIds": null,
+    "replacement": null,
+    "elements": [
+        {
+            "componentId": "emotion-components-banner",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 4,
+                    "startCol": 7,
+                    "endRow": 5,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 4,
+                    "startCol": 8,
+                    "endRow": 5,
+                    "endCol": 12,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 5,
+                    "startCol": 8,
+                    "endRow": 7,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 5,
+                    "startCol": 8,
+                    "endRow": 7,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 6,
+                    "startCol": 7,
+                    "endRow": 9,
+                    "endCol": 11,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerPosition",
+                    "value": "center",
+                    "key": "bannerPosition",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "file",
+                    "value": "df263d996281d984952c07998dc54358",
+                    "key": "file",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerMapping",
+                    "value": "null",
+                    "key": "bannerMapping",
+                    "valueType": "json"
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "link",
+                    "value": "",
+                    "key": "link",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "banner_link_target",
+                    "value": "",
+                    "key": "banner_link_target",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "title",
+                    "value": "",
+                    "key": "title",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-5911b7f9446953.22574790"
+        },
+        {
+            "componentId": "emotion-components-banner",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 4,
+                    "startCol": 2,
+                    "endRow": 4,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 4,
+                    "startCol": 2,
+                    "endRow": 4,
+                    "endCol": 7,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 5,
+                    "startCol": 2,
+                    "endRow": 6,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 5,
+                    "startCol": 2,
+                    "endRow": 6,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 6,
+                    "startCol": 2,
+                    "endRow": 8,
+                    "endCol": 5,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerPosition",
+                    "value": "center",
+                    "key": "bannerPosition",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "file",
+                    "value": "a1d33d0dfec820b41b54430b50e96b5c",
+                    "key": "file",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerMapping",
+                    "value": "null",
+                    "key": "bannerMapping",
+                    "valueType": "json"
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "link",
+                    "value": "",
+                    "key": "link",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "banner_link_target",
+                    "value": "",
+                    "key": "banner_link_target",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "title",
+                    "value": "",
+                    "key": "title",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-5911b7f9446a79.44989182"
+        },
+        {
+            "componentId": "emotion-components-banner",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 10,
+                    "startCol": 1,
+                    "endRow": 10,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 10,
+                    "startCol": 2,
+                    "endRow": 10,
+                    "endCol": 10,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 12,
+                    "startCol": 1,
+                    "endRow": 12,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 11,
+                    "startCol": 1,
+                    "endRow": 12,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 16,
+                    "startCol": 2,
+                    "endRow": 17,
+                    "endCol": 7,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerPosition",
+                    "value": "center",
+                    "key": "bannerPosition",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "file",
+                    "value": "ccb0989662211f61edae2e26d58ea92f",
+                    "key": "file",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerMapping",
+                    "value": "null",
+                    "key": "bannerMapping",
+                    "valueType": "json"
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "link",
+                    "value": "",
+                    "key": "link",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "banner_link_target",
+                    "value": "",
+                    "key": "banner_link_target",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "title",
+                    "value": "",
+                    "key": "title",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-5911b7f9446b14.60716217"
+        },
+        {
+            "componentId": "emotion-components-banner",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 16,
+                    "startCol": 3,
+                    "endRow": 16,
+                    "endCol": 10,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 15,
+                    "startCol": 2,
+                    "endRow": 15,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 17,
+                    "startCol": 1,
+                    "endRow": 18,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 16,
+                    "startCol": 1,
+                    "endRow": 17,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 24,
+                    "startCol": 2,
+                    "endRow": 26,
+                    "endCol": 6,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerPosition",
+                    "value": "center",
+                    "key": "bannerPosition",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "file",
+                    "value": "bf62768ca46b6c3b5bea9515d1a1fc45",
+                    "key": "file",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerMapping",
+                    "value": "null",
+                    "key": "bannerMapping",
+                    "valueType": "json"
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "link",
+                    "value": "",
+                    "key": "link",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "banner_link_target",
+                    "value": "",
+                    "key": "banner_link_target",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "title",
+                    "value": "",
+                    "key": "title",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-5911b7f9446ba3.56713345"
+        },
+        {
+            "componentId": "emotion-components-banner",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 1,
+                    "startCol": 1,
+                    "endRow": 1,
+                    "endCol": 1,
+                    "visible": false
+                },
+                {
+                    "alias": "s",
+                    "startRow": 15,
+                    "startCol": 7,
+                    "endRow": 16,
+                    "endCol": 12,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 17,
+                    "startCol": 7,
+                    "endRow": 18,
+                    "endCol": 12,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 16,
+                    "startCol": 7,
+                    "endRow": 17,
+                    "endCol": 12,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 23,
+                    "startCol": 7,
+                    "endRow": 26,
+                    "endCol": 12,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerPosition",
+                    "value": "center",
+                    "key": "bannerPosition",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "file",
+                    "value": "0537fb40a68c18da59a35c2bfe1ca554",
+                    "key": "file",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerMapping",
+                    "value": "null",
+                    "key": "bannerMapping",
+                    "valueType": "json"
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "link",
+                    "value": "",
+                    "key": "link",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "banner_link_target",
+                    "value": "",
+                    "key": "banner_link_target",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "title",
+                    "value": "",
+                    "key": "title",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-5911b7f9446c30.04467195"
+        },
+        {
+            "componentId": "emotion-components-banner",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 21,
+                    "startCol": 2,
+                    "endRow": 22,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 21,
+                    "startCol": 3,
+                    "endRow": 22,
+                    "endCol": 10,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 22,
+                    "startCol": 2,
+                    "endRow": 23,
+                    "endCol": 5,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 21,
+                    "startCol": 1,
+                    "endRow": 22,
+                    "endCol": 5,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 32,
+                    "startCol": 2,
+                    "endRow": 34,
+                    "endCol": 4,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerPosition",
+                    "value": "center",
+                    "key": "bannerPosition",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "file",
+                    "value": "2823f4797102ce1a1aec05359cc16dd9",
+                    "key": "file",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "bannerMapping",
+                    "value": "null",
+                    "key": "bannerMapping",
+                    "valueType": "json"
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "link",
+                    "value": "",
+                    "key": "link",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "banner_link_target",
+                    "value": "",
+                    "key": "banner_link_target",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-components-banner",
+                    "fieldId": "title",
+                    "value": "",
+                    "key": "title",
+                    "valueType": ""
+                }
+            ],
+            "syncKey": "preset-element-5911b7f9446cc0.34206339"
+        },
+        {
+            "componentId": "emotion-digital-publishing",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 1,
+                    "startCol": 1,
+                    "endRow": 3,
+                    "endCol": 12,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 1,
+                    "startCol": 1,
+                    "endRow": 3,
+                    "endCol": 12,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 1,
+                    "startCol": 1,
+                    "endRow": 4,
+                    "endCol": 12,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 1,
+                    "startCol": 1,
+                    "endRow": 4,
+                    "endCol": 12,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 1,
+                    "startCol": 1,
+                    "endRow": 5,
+                    "endCol": 12,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-digital-publishing",
+                    "fieldId": "digital_publishing_banner_id",
+                    "key": "digital_publishing_banner_id",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-digital-publishing",
+                    "fieldId": "digital_publishing_banner_data",
+                    "value": "1ff1de774005f8da13f42943881c655f",
+                    "key": "digital_publishing_banner_data",
+                    "valueType": "json"
+                }
+            ],
+            "syncKey": "preset-element-5911b7f9446d24.91920500"
+        },
+        {
+            "componentId": "emotion-digital-publishing",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 6,
+                    "startCol": 2,
+                    "endRow": 7,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 6,
+                    "startCol": 2,
+                    "endRow": 7,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 8,
+                    "startCol": 1,
+                    "endRow": 10,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 8,
+                    "startCol": 1,
+                    "endRow": 10,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 10,
+                    "startCol": 1,
+                    "endRow": 14,
+                    "endCol": 6,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-digital-publishing",
+                    "fieldId": "digital_publishing_banner_id",
+                    "key": "digital_publishing_banner_id",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-digital-publishing",
+                    "fieldId": "digital_publishing_banner_data",
+                    "value": "8e296a067a37563370ded05f5a3bf3ec",
+                    "key": "digital_publishing_banner_data",
+                    "valueType": "json"
+                }
+            ],
+            "syncKey": "preset-element-5911b7f9446d67.84581116"
+        },
+        {
+            "componentId": "emotion-digital-publishing",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 8,
+                    "startCol": 2,
+                    "endRow": 9,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 8,
+                    "startCol": 2,
+                    "endRow": 9,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 8,
+                    "startCol": 7,
+                    "endRow": 10,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 9,
+                    "startCol": 7,
+                    "endRow": 10,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 11,
+                    "startCol": 8,
+                    "endRow": 13,
+                    "endCol": 11,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-digital-publishing",
+                    "fieldId": "digital_publishing_banner_id",
+                    "key": "digital_publishing_banner_id",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-digital-publishing",
+                    "fieldId": "digital_publishing_banner_data",
+                    "value": "4e732ced3463d06de0ca9a15b6153677",
+                    "key": "digital_publishing_banner_data",
+                    "valueType": "json"
+                }
+            ],
+            "syncKey": "preset-element-5911b7f9446db7.23772647"
+        },
+        {
+            "componentId": "emotion-digital-publishing",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 1,
+                    "startCol": 1,
+                    "endRow": 1,
+                    "endCol": 1,
+                    "visible": false
+                },
+                {
+                    "alias": "s",
+                    "startRow": 1,
+                    "startCol": 1,
+                    "endRow": 1,
+                    "endCol": 1,
+                    "visible": false
+                },
+                {
+                    "alias": "m",
+                    "startRow": 11,
+                    "startCol": 7,
+                    "endRow": 13,
+                    "endCol": 12,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 11,
+                    "startCol": 7,
+                    "endRow": 13,
+                    "endCol": 12,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 15,
+                    "startCol": 8,
+                    "endRow": 19,
+                    "endCol": 12,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-digital-publishing",
+                    "fieldId": "digital_publishing_banner_id",
+                    "key": "digital_publishing_banner_id",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-digital-publishing",
+                    "fieldId": "digital_publishing_banner_data",
+                    "value": "02e74f10e0327ad868d138f2b4fdd6f0",
+                    "key": "digital_publishing_banner_data",
+                    "valueType": "json"
+                }
+            ],
+            "syncKey": "preset-element-5911b7f9446df9.74499084"
+        },
+        {
+            "componentId": "emotion-digital-publishing",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 13,
+                    "startCol": 2,
+                    "endRow": 15,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 13,
+                    "startCol": 2,
+                    "endRow": 14,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 14,
+                    "startCol": 7,
+                    "endRow": 16,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 14,
+                    "startCol": 7,
+                    "endRow": 15,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 20,
+                    "startCol": 6,
+                    "endRow": 21,
+                    "endCol": 10,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-digital-publishing",
+                    "fieldId": "digital_publishing_banner_id",
+                    "key": "digital_publishing_banner_id",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-digital-publishing",
+                    "fieldId": "digital_publishing_banner_data",
+                    "value": "c16a5320fa475530d9583c34fd356ef5",
+                    "key": "digital_publishing_banner_data",
+                    "valueType": "json"
+                }
+            ],
+            "syncKey": "preset-element-5911b7f9446e32.35604626"
+        },
+        {
+            "componentId": "emotion-digital-publishing",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 11,
+                    "startCol": 2,
+                    "endRow": 12,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 11,
+                    "startCol": 2,
+                    "endRow": 12,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 14,
+                    "startCol": 1,
+                    "endRow": 16,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 14,
+                    "startCol": 1,
+                    "endRow": 15,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 19,
+                    "startCol": 1,
+                    "endRow": 22,
+                    "endCol": 5,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-digital-publishing",
+                    "fieldId": "digital_publishing_banner_id",
+                    "key": "digital_publishing_banner_id",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-digital-publishing",
+                    "fieldId": "digital_publishing_banner_data",
+                    "value": "33e75ff09dd601bbe69f351039152189",
+                    "key": "digital_publishing_banner_data",
+                    "valueType": "json"
+                }
+            ],
+            "syncKey": "preset-element-5911b7f9446e78.77463160"
+        },
+        {
+            "componentId": "emotion-digital-publishing",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 17,
+                    "startCol": 2,
+                    "endRow": 18,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 17,
+                    "startCol": 2,
+                    "endRow": 18,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 19,
+                    "startCol": 1,
+                    "endRow": 21,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 18,
+                    "startCol": 1,
+                    "endRow": 19,
+                    "endCol": 6,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 27,
+                    "startCol": 1,
+                    "endRow": 30,
+                    "endCol": 7,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-digital-publishing",
+                    "fieldId": "digital_publishing_banner_id",
+                    "key": "digital_publishing_banner_id",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-digital-publishing",
+                    "fieldId": "digital_publishing_banner_data",
+                    "value": "6ea9ab1baa0efb9e19094440c317e21b",
+                    "key": "digital_publishing_banner_data",
+                    "valueType": "json"
+                }
+            ],
+            "syncKey": "preset-element-5911b7f9446eb2.73991162"
+        },
+        {
+            "componentId": "emotion-digital-publishing",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 19,
+                    "startCol": 2,
+                    "endRow": 20,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "s",
+                    "startRow": 19,
+                    "startCol": 2,
+                    "endRow": 20,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "m",
+                    "startRow": 19,
+                    "startCol": 7,
+                    "endRow": 21,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 18,
+                    "startCol": 7,
+                    "endRow": 19,
+                    "endCol": 11,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 28,
+                    "startCol": 8,
+                    "endRow": 29,
+                    "endCol": 11,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-digital-publishing",
+                    "fieldId": "digital_publishing_banner_id",
+                    "key": "digital_publishing_banner_id",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-digital-publishing",
+                    "fieldId": "digital_publishing_banner_data",
+                    "value": "34173cb38f07f89ddbebc2ac9128303f",
+                    "key": "digital_publishing_banner_data",
+                    "valueType": "json"
+                }
+            ],
+            "syncKey": "preset-element-5911b7f9446f00.70794610"
+        },
+        {
+            "componentId": "emotion-digital-publishing",
+            "startRow": 1,
+            "startCol": 1,
+            "endRow": 1,
+            "endCol": 1,
+            "cssClass": "",
+            "viewports": [
+                {
+                    "alias": "xs",
+                    "startRow": 1,
+                    "startCol": 1,
+                    "endRow": 1,
+                    "endCol": 1,
+                    "visible": false
+                },
+                {
+                    "alias": "s",
+                    "startRow": 1,
+                    "startCol": 1,
+                    "endRow": 1,
+                    "endCol": 1,
+                    "visible": false
+                },
+                {
+                    "alias": "m",
+                    "startRow": 22,
+                    "startCol": 6,
+                    "endRow": 24,
+                    "endCol": 12,
+                    "visible": true
+                },
+                {
+                    "alias": "l",
+                    "startRow": 20,
+                    "startCol": 6,
+                    "endRow": 23,
+                    "endCol": 12,
+                    "visible": true
+                },
+                {
+                    "alias": "xl",
+                    "startRow": 31,
+                    "startCol": 6,
+                    "endRow": 35,
+                    "endCol": 12,
+                    "visible": true
+                }
+            ],
+            "data": [
+                {
+                    "componentId": "emotion-digital-publishing",
+                    "fieldId": "digital_publishing_banner_id",
+                    "key": "digital_publishing_banner_id",
+                    "valueType": ""
+                },
+                {
+                    "componentId": "emotion-digital-publishing",
+                    "fieldId": "digital_publishing_banner_data",
+                    "value": "6364d3f0f495b6ab9dcf8d3b5c6e0b01",
+                    "key": "digital_publishing_banner_data",
+                    "valueType": "json"
+                }
+            ],
+            "syncKey": "preset-element-5911b7f9446f48.79641765"
+        }
+    ],
+    "syncData": {
+        "assets": {
+            "df263d996281d984952c07998dc54358": "\/custom\/plugins\/SwagEmotionPresets\/Resources/assets\/media\/BrokenGrid\/christopher-campbell-179452.jpg",
+            "a1d33d0dfec820b41b54430b50e96b5c": "\/custom\/plugins\/SwagEmotionPresets\/Resources/assets\/media\/BrokenGrid\/product-01.jpg",
+            "ccb0989662211f61edae2e26d58ea92f": "\/custom\/plugins\/SwagEmotionPresets\/Resources/assets\/media\/BrokenGrid\/product-02.jpg",
+            "bf62768ca46b6c3b5bea9515d1a1fc45": "\/custom\/plugins\/SwagEmotionPresets\/Resources/assets\/media\/BrokenGrid\/product-04.jpg",
+            "0537fb40a68c18da59a35c2bfe1ca554": "\/custom\/plugins\/SwagEmotionPresets\/Resources/assets\/media\/BrokenGrid\/zachary-staines-44798.jpg",
+            "2823f4797102ce1a1aec05359cc16dd9": "\/custom\/plugins\/SwagEmotionPresets\/Resources/assets\/media\/BrokenGrid\/product-03.jpg",
+            "2e65f2f2fdaf6c699b223c61b1b5ab89": "\/custom\/plugins\/SwagEmotionPresets\/Resources/assets\/media\/BrokenGrid\/beach_mittags.jpg",
+            "e94550c93cd70fe748e6982b3439ad3b": "\/custom\/plugins\/SwagEmotionPresets\/Resources/assets\/media\/BrokenGrid\/beach_mittags-02.jpg",
+            "5c572eca050594c7bc3c36e7e8ab9550": "\/custom\/plugins\/SwagEmotionPresets\/Resources/assets\/media\/BrokenGrid\/beach_mittags-03.jpg",
+            "185e65bc40581880c4f2c82958de8cfe": "\/custom\/plugins\/SwagEmotionPresets\/Resources/assets\/media\/BrokenGrid\/beach_mittags-04.jpg",
+            "b056eb1587586b71e2da9acfe4fbd19e": "\/custom\/plugins\/SwagEmotionPresets\/Resources/assets\/media\/BrokenGrid\/beach_mittags-05.jpg",
+            "b137fdd1f79d56c7edf3365fea7520f2": "\/custom\/plugins\/SwagEmotionPresets\/Resources/assets\/media\/BrokenGrid\/beach_mittags-06.jpg"
+        },
+        "banners": {
+            "1ff1de774005f8da13f42943881c655f": {
+                "name": "TagamMeer-Teaser",
+                "bgType": "image",
+                "bgOrientation": "center center",
+                "bgMode": "cover",
+                "bgColor": "",
+                "mediaId": "df263d996281d984952c07998dc54358",
+                "layers": [
+                    {
+                        "label": "New level",
+                        "position": 0,
+                        "orientation": "center center",
+                        "width": "auto",
+                        "height": "auto",
+                        "marginTop": 0,
+                        "marginRight": 0,
+                        "marginBottom": 0,
+                        "marginLeft": 0,
+                        "borderRadius": 0,
+                        "bgColor": "",
+                        "link": "",
+                        "elements": [
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 0,
+                                "payload": "{\"text\":\"Lunchtime \",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":80,\"lineHeight\":1,\"fontcolor\":\"#FFFFFF\",\"textfield-1710-inputEl\":\"\",\"orientation\":\"center\",\"fontweight\":true,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-1714-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":20,\"class\":\"\"}"
+                            },
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 1,
+                                "payload": "{\"text\":\"Ride the waves\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":30,\"lineHeight\":1,\"fontcolor\":\"#FFFFFF\",\"textfield-1832-inputEl\":\"\",\"orientation\":\"center\",\"fontweight\":false,\"fontstyle\":true,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-1836-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":0,\"class\":\"\"}"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "8e296a067a37563370ded05f5a3bf3ec": {
+                "name": "Mittag-01",
+                "bgType": "color",
+                "bgOrientation": "center center",
+                "bgMode": "cover",
+                "bgColor": "",
+                "mediaId": null,
+                "layers": [
+                    {
+                        "label": "New level",
+                        "position": 0,
+                        "orientation": "center right",
+                        "width": "60%",
+                        "height": "35%",
+                        "marginTop": 25,
+                        "marginRight": 0,
+                        "marginBottom": 0,
+                        "marginLeft": 45,
+                        "borderRadius": 0,
+                        "bgColor": "#d9ecee",
+                        "link": "",
+                        "elements": []
+                    },
+                    {
+                        "label": "New level",
+                        "position": 1,
+                        "orientation": "center left",
+                        "width": "70%",
+                        "height": "auto",
+                        "marginTop": 5,
+                        "marginRight": 0,
+                        "marginBottom": 45,
+                        "marginLeft": 35,
+                        "borderRadius": 0,
+                        "bgColor": "",
+                        "link": "",
+                        "elements": [
+                            {
+                                "name": "image",
+                                "label": "Image",
+                                "position": 0,
+                                "payload": "{\"mediaId\":\"2e65f2f2fdaf6c699b223c61b1b5ab89\",\"alt\":\"\",\"maxWidth\":1600,\"maxHeight\":1600,\"orientation\":\"left\",\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":0,\"class\":\"\"}"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "4e732ced3463d06de0ca9a15b6153677": {
+                "name": "Text-Beach-lunchtime1",
+                "bgType": "color",
+                "bgOrientation": "center center",
+                "bgMode": "cover",
+                "bgColor": "",
+                "mediaId": null,
+                "layers": [
+                    {
+                        "label": "New level",
+                        "position": 0,
+                        "orientation": "center center",
+                        "width": "auto",
+                        "height": "auto",
+                        "marginTop": 0,
+                        "marginRight": 0,
+                        "marginBottom": 0,
+                        "marginLeft": 0,
+                        "borderRadius": 0,
+                        "bgColor": "",
+                        "link": "",
+                        "elements": [
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 0,
+                                "payload": "{\"text\":\"Stylish swimwear\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":48,\"lineHeight\":1,\"fontcolor\":\"#00828c\",\"textfield-7678-inputEl\":\"\",\"orientation\":\"left\",\"fontweight\":true,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-7682-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":15,\"class\":\"\"}"
+                            },
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 1,
+                                "payload": "{\"text\":\"Express yourself\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":36,\"lineHeight\":1,\"fontcolor\":\"#00828c\",\"textfield-7759-inputEl\":\"\",\"orientation\":\"left\",\"fontweight\":false,\"fontstyle\":true,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-7763-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":0,\"class\":\"\"}"
+                            },
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 2,
+                                "payload": "{\"text\":\"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et.\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":18,\"lineHeight\":1.25,\"fontcolor\":\"#00828c\",\"textfield-5301-inputEl\":\"\",\"orientation\":\"left\",\"fontweight\":false,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-5305-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":15,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":0,\"class\":\"\"}"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "02e74f10e0327ad868d138f2b4fdd6f0": {
+                "name": "Lunchtime-02",
+                "bgType": "color",
+                "bgOrientation": "center center",
+                "bgMode": "cover",
+                "bgColor": "",
+                "mediaId": null,
+                "layers": [
+                    {
+                        "label": "Color-Layer",
+                        "position": 0,
+                        "orientation": "bottom center",
+                        "width": "80%",
+                        "height": "40%",
+                        "marginTop": 0,
+                        "marginRight": 0,
+                        "marginBottom": 0,
+                        "marginLeft": 0,
+                        "borderRadius": 0,
+                        "bgColor": "#d9ecee",
+                        "link": "",
+                        "elements": []
+                    },
+                    {
+                        "label": "IMG",
+                        "position": 1,
+                        "orientation": "center center",
+                        "width": "70%",
+                        "height": "auto",
+                        "marginTop": 5,
+                        "marginRight": 0,
+                        "marginBottom": 35,
+                        "marginLeft": 0,
+                        "borderRadius": 0,
+                        "bgColor": "",
+                        "link": "",
+                        "elements": [
+                            {
+                                "name": "image",
+                                "label": "Image",
+                                "position": 0,
+                                "payload": "{\"mediaId\":\"e94550c93cd70fe748e6982b3439ad3b\",\"alt\":\"\",\"maxWidth\":1600,\"maxHeight\":1600,\"orientation\":\"center\",\"paddingTop\":15,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":35,\"class\":\"\"}"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "c16a5320fa475530d9583c34fd356ef5": {
+                "name": "Text-Beach-lunchtime3",
+                "bgType": "color",
+                "bgOrientation": "center center",
+                "bgMode": "cover",
+                "bgColor": "",
+                "mediaId": null,
+                "layers": [
+                    {
+                        "label": "New level",
+                        "position": 0,
+                        "orientation": "center center",
+                        "width": "100%",
+                        "height": "auto",
+                        "marginTop": 0,
+                        "marginRight": 0,
+                        "marginBottom": 0,
+                        "marginLeft": 0,
+                        "borderRadius": 0,
+                        "bgColor": "",
+                        "link": "",
+                        "elements": [
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 0,
+                                "payload": "{\"text\":\"Life is a wild ride\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":48,\"lineHeight\":1,\"fontcolor\":\"#00828c\",\"textfield-7515-inputEl\":\"\",\"orientation\":\"left\",\"fontweight\":true,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-7519-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":15,\"class\":\"\"}"
+                            },
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 1,
+                                "payload": "{\"text\":\"Jump into the Sea\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":36,\"lineHeight\":1,\"fontcolor\":\"#00828c\",\"textfield-7995-inputEl\":\"\",\"orientation\":\"left\",\"fontweight\":false,\"fontstyle\":true,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-7999-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":0,\"class\":\"\"}"
+                            },
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 2,
+                                "payload": "{\"text\":\"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et.\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":18,\"lineHeight\":1.25,\"fontcolor\":\"#00828c\",\"textfield-1949-inputEl\":\"\",\"orientation\":\"left\",\"fontweight\":false,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-1953-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":15,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":0,\"class\":\"\"}"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "33e75ff09dd601bbe69f351039152189": {
+                "name": "Lunchtime-03",
+                "bgType": "color",
+                "bgOrientation": "center center",
+                "bgMode": "cover",
+                "bgColor": "",
+                "mediaId": null,
+                "layers": [
+                    {
+                        "label": "Color-layer",
+                        "position": 0,
+                        "orientation": "center center",
+                        "width": "90%",
+                        "height": "80%",
+                        "marginTop": 0,
+                        "marginRight": 0,
+                        "marginBottom": 0,
+                        "marginLeft": 0,
+                        "borderRadius": 0,
+                        "bgColor": "#d9ecee",
+                        "link": "",
+                        "elements": []
+                    },
+                    {
+                        "label": "IMG",
+                        "position": 1,
+                        "orientation": "top left",
+                        "width": "90%",
+                        "height": "auto",
+                        "marginTop": 0,
+                        "marginRight": 0,
+                        "marginBottom": 0,
+                        "marginLeft": 0,
+                        "borderRadius": 0,
+                        "bgColor": "",
+                        "link": "",
+                        "elements": [
+                            {
+                                "name": "image",
+                                "label": "Image",
+                                "position": 0,
+                                "payload": "{\"mediaId\":\"5c572eca050594c7bc3c36e7e8ab9550\",\"alt\":\"\",\"maxWidth\":1600,\"maxHeight\":1600,\"orientation\":\"center\",\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":0,\"class\":\"\"}"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "6ea9ab1baa0efb9e19094440c317e21b": {
+                "name": "Lunchtime-04",
+                "bgType": "color",
+                "bgOrientation": "center center",
+                "bgMode": "cover",
+                "bgColor": "",
+                "mediaId": null,
+                "layers": [
+                    {
+                        "label": "New level",
+                        "position": 0,
+                        "orientation": "center right",
+                        "width": "60%",
+                        "height": "50%",
+                        "marginTop": 0,
+                        "marginRight": 55,
+                        "marginBottom": 0,
+                        "marginLeft": 0,
+                        "borderRadius": 0,
+                        "bgColor": "#d9ecee",
+                        "link": "",
+                        "elements": []
+                    },
+                    {
+                        "label": "IMG",
+                        "position": 1,
+                        "orientation": "center left",
+                        "width": "80%",
+                        "height": "auto",
+                        "marginTop": 0,
+                        "marginRight": 0,
+                        "marginBottom": 0,
+                        "marginLeft": 25,
+                        "borderRadius": 0,
+                        "bgColor": "",
+                        "link": "",
+                        "elements": [
+                            {
+                                "name": "image",
+                                "label": "Image",
+                                "position": 0,
+                                "payload": "{\"mediaId\":\"185e65bc40581880c4f2c82958de8cfe\",\"alt\":\"\",\"maxWidth\":1600,\"maxHeight\":1600,\"orientation\":\"center\",\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":0,\"class\":\"\"}"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "34173cb38f07f89ddbebc2ac9128303f": {
+                "name": "Text-Beach-lunchtime2",
+                "bgType": "color",
+                "bgOrientation": "center center",
+                "bgMode": "cover",
+                "bgColor": "",
+                "mediaId": null,
+                "layers": [
+                    {
+                        "label": "New level",
+                        "position": 0,
+                        "orientation": "center center",
+                        "width": "auto",
+                        "height": "auto",
+                        "marginTop": 0,
+                        "marginRight": 0,
+                        "marginBottom": 0,
+                        "marginLeft": 0,
+                        "borderRadius": 0,
+                        "bgColor": "",
+                        "link": "",
+                        "elements": [
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 0,
+                                "payload": "{\"text\":\"Beach accessories\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":48,\"lineHeight\":1,\"fontcolor\":\"#00828c\",\"textfield-7397-inputEl\":\"\",\"orientation\":\"left\",\"fontweight\":true,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-7401-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":15,\"class\":\"\"}"
+                            },
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 1,
+                                "payload": "{\"text\":\"Discover the comfort\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":36,\"lineHeight\":1,\"fontcolor\":\"#00828c\",\"textfield-7877-inputEl\":\"\",\"orientation\":\"left\",\"fontweight\":false,\"fontstyle\":true,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-7881-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":0,\"class\":\"\"}"
+                            },
+                            {
+                                "name": "text",
+                                "label": "Text",
+                                "position": 2,
+                                "payload": "{\"text\":\"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et.\",\"type\":\"h1\",\"font\":\"Open Sans\",\"fontsize\":18,\"lineHeight\":1.25,\"fontcolor\":\"#00828c\",\"textfield-9477-inputEl\":\"\",\"orientation\":\"left\",\"fontweight\":false,\"fontstyle\":false,\"underline\":false,\"uppercase\":false,\"shadowColor\":\"\",\"textfield-9481-inputEl\":\"\",\"shadowOffsetX\":0,\"shadowOffsetY\":0,\"shadowBlur\":0,\"paddingTop\":15,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":0,\"class\":\"\"}"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "6364d3f0f495b6ab9dcf8d3b5c6e0b01": {
+                "name": "Beach-lunchtime-01",
+                "bgType": "color",
+                "bgOrientation": "center center",
+                "bgMode": "cover",
+                "bgColor": "",
+                "mediaId": null,
+                "layers": [
+                    {
+                        "label": "New level",
+                        "position": 0,
+                        "orientation": "bottom right",
+                        "width": "80%",
+                        "height": "auto",
+                        "marginTop": 0,
+                        "marginRight": 0,
+                        "marginBottom": 0,
+                        "marginLeft": 0,
+                        "borderRadius": 0,
+                        "bgColor": "",
+                        "link": "",
+                        "elements": [
+                            {
+                                "name": "image",
+                                "label": "Image",
+                                "position": 0,
+                                "payload": "{\"mediaId\":\"b056eb1587586b71e2da9acfe4fbd19e\",\"alt\":\"\",\"maxWidth\":1600,\"maxHeight\":1600,\"orientation\":\"left\",\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":0,\"class\":\"\"}"
+                            }
+                        ]
+                    },
+                    {
+                        "label": "New level",
+                        "position": 1,
+                        "orientation": "top left",
+                        "width": "60%",
+                        "height": "auto",
+                        "marginTop": 0,
+                        "marginRight": 0,
+                        "marginBottom": 0,
+                        "marginLeft": 35,
+                        "borderRadius": 0,
+                        "bgColor": "",
+                        "link": "",
+                        "elements": [
+                            {
+                                "name": "image",
+                                "label": "Image",
+                                "position": 0,
+                                "payload": "{\"mediaId\":\"b137fdd1f79d56c7edf3365fea7520f2\",\"alt\":\"\",\"maxWidth\":1600,\"maxHeight\":1600,\"orientation\":\"left\",\"paddingTop\":0,\"paddingLeft\":0,\"paddingChain\":false,\"paddingRight\":0,\"paddingBottom\":0,\"class\":\"\"}"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}
