@@ -1,19 +1,19 @@
 .htaccess
-        Makefile
-        autoload.php
-        bin/
-        composer.json
-        composer.lock
-        config.php
-        config_dev.php
-        custom/
-        engine/
-        files/
-        license.txt
-        media/
-        recovery/
-        shopware.php
-        themes/
-        var/
-        vendor/
-        web/
+Makefile
+autoload.php
+bin/
+composer.json
+composer.lock
+config.php
+config_dev.php
+custom/
+engine/
+files/
+license.txt
+media/
+recovery/
+shopware.php
+themes/
+var/
+vendor/
+web/
