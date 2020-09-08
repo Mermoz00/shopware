@@ -2,8 +2,11 @@
 
 namespace SwagAdvDevBundle2\Components\Api\Resource;
 
+use Google\ApiCore\ApiException as ApiCoreApiException;
 use Shopware\Components\Api\Exception as ApiException;
+//use Shopware\Components\Api\Resource\Article;
 use Shopware\Components\Api\Resource\Resource;
+use Shopware\Models\Article\Article;
 use SwagAdvDevBundle2\Models\Bundle as BundleModel;
 
 class Bundle extends Resource
@@ -19,9 +22,24 @@ class Bundle extends Resource
     public function getList($offset, $limit, $filter, $sort)
     {
         // todo Implement a QueryBuilder to read bundles
+        $builder = $this->getBaseQuery();
         // The QueryBuilder should take $offset and $limit into account
-        // Return the list as object or array depending on $this->resultMode
+        $builder->setFirstResult($offset)
+            ->setMaxResults($limit);
 
+
+        if (!empty($filter)) {
+            $builder->addFilter($filter);
+        }
+        if (!empty($sort)) {
+            $builder->addOrderBy($sort);
+        }
+        $query = $builder->getQuery();
+        // Return the list as object or array depending on $this->resultMode
+        $query->setHydrationMode($this->getResultMode());
+        $paginator = $this->getManager()->createPaginator($query);
+        $bundles = $paginator->getIterator();
+        $totalResult = $paginator->count();
         // Additional todo: The QueryBuilder should also be aware of $filter and $sort
 
         return ['data' => $bundles, 'total' => $totalResult];
@@ -37,11 +55,19 @@ class Bundle extends Resource
     public function getOne($id)
     {
         // todo Implement the getOne method
+        $builder = $this->getBaseQuery();
+        $builder->where('bundle.id = :id')
+            ->setParameter('id', $id);
+        $query = $builder->getQuery();
+        $query->setHydrationMode($this->getResultMode());
+        $bundle = $query->getOneOrNullResult();
+        if (!$bundle) {
+            throw new ApiException\NotfoundException('Bundle with ID' . $id . ' not found');
+        }
         // It should select the bundle with ID $id .
         // If the bundle does not exist, raise the exception ApiException\NotFoundException
 
         // Return the list as object or array depending on $this->resultMode
-
         return $bundle;
     }
 
@@ -61,6 +87,15 @@ class Bundle extends Resource
         // - Save and return the model
 
         $data = $this->prepareBundleData($data);
+        $bundle = new BundleModel();
+        $bundle->fromArray($data);
+        $violations = $this->getManager()->validate($bundle);
+
+        if ($violations->count() >= 1) {
+            throw new ApiException\ValidationException($violations);
+        }
+        $this->getManager()->persist($bundle);
+        $this->flush();
 
         return $bundle;
     }
@@ -84,7 +119,16 @@ class Bundle extends Resource
         // - Use `prepareBundleData` to prepare the bundle data
         // - Save the changes to the model
         // - return the model
-
+        if (!$id) {
+            throw new ApiException\NotFoundException('No Id given.');
+        }
+        $bundle = $this->getManager()->find(\SwagAdvDevBundle2\Models\Bundle::class, $id);
+        if (!$bundle instanceof \SwagAdvDevBundle2\Models\Bundle) {
+            throw new ApiException\NotFoundException('Bundle with it ' . $id . ' not found');
+        }
+        $data = $this->prepareBundleData($data);
+        $bundle->fromArray($data);
+        $this->flush();
         return $bundle;
     }
 
@@ -98,6 +142,15 @@ class Bundle extends Resource
     {
         // todo implement the delete method
         // - Throw ApiException\ParameterMissingException, if there is no bundle ID $id
+        if (!$id) {
+            throw new ApiException\NotFoundException('No Id given.');
+        }
+        $bundle = $this->getManager()->find(\SwagAdvDevBundle2\Models\Bundle::class, $id);
+        if (!$bundle instanceof \SwagAdvDevBundle2\Models\Bundle) {
+            throw new ApiException\NotFoundException('Bundle with it ' . $id . ' not found');
+        }
+        $this->getManager()->remove($bundle);
+        $this->flush();
     }
 
     /**
@@ -113,7 +166,27 @@ class Bundle extends Resource
         // - the array $data['products'] should contain product entities instead of product IDs
         // - if an ID is missing, throw ApiException\NotFoundException
         // only do that if the array key 'products' exists
-
+        if (!array_key_exists('products', $data)) {
+            return $data;
+        }
+        $products = array();
+        $em = $this->getManager();
+        foreach ($data['products'] as $productId) {
+            $product = $em->find(Article::class, $productId);
+            if (!$product instanceof Article) {
+                throw new ApiException\NotFoundException('Product with ID' . $productId . ' not found');
+            }
+            $products[] = $product;
+        }
+        $data['products'] = $products;
         return $data;
+    }
+    private function getBaseQuery()
+    {
+        $builder = $this->getManager()->createQueryBuilder();
+        $builder->select(['bundle', 'products'])
+            ->from(\SwagAdvDevBundle2\Models\Bundle::class, 'bundle')
+            ->leftJoin('bundle.products', 'products');
+        return $builder;
     }
 }

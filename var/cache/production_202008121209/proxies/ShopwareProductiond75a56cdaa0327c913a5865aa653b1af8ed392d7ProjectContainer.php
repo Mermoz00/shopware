@@ -345,6 +345,7 @@ class ShopwareProductiond75a56cdaa0327c913a5865aa653b1af8ed392d7ProjectContainer
             'shop_page_menu' => 'getShopPageMenuService',
             'shopware.api.address' => 'getShopware_Api_AddressService',
             'shopware.api.article' => 'getShopware_Api_ArticleService',
+            'shopware.api.bundle' => 'getShopware_Api_BundleService',
             'shopware.api.cache' => 'getShopware_Api_CacheService',
             'shopware.api.category' => 'getShopware_Api_CategoryService',
             'shopware.api.country' => 'getShopware_Api_CountryService',
@@ -1114,6 +1115,9 @@ class ShopwareProductiond75a56cdaa0327c913a5865aa653b1af8ed392d7ProjectContainer
             'sitemapxml.repository' => 'getSitemapxml_RepositoryService',
             'snippet_resource' => 'getSnippetResourceService',
             'snippets' => 'getSnippetsService',
+            'swag_adv_dev_bundle1.filesystem.private' => 'getSwagAdvDevBundle1_Filesystem_PrivateService',
+            'swag_adv_dev_bundle1.filesystem.public' => 'getSwagAdvDevBundle1_Filesystem_PublicService',
+            'swag_adv_dev_bundle1.logger' => 'getSwagAdvDevBundle1_LoggerService',
             'swag_adv_dev_bundle2.filesystem.private' => 'getSwagAdvDevBundle2_Filesystem_PrivateService',
             'swag_adv_dev_bundle2.filesystem.public' => 'getSwagAdvDevBundle2_Filesystem_PublicService',
             'swag_adv_dev_bundle2.logger' => 'getSwagAdvDevBundle2_LoggerService',
@@ -1253,6 +1257,7 @@ class ShopwareProductiond75a56cdaa0327c913a5865aa653b1af8ed392d7ProjectContainer
             'service_locator.vxgs2co' => true,
             'shopware.api.address' => true,
             'shopware.api.article' => true,
+            'shopware.api.bundle' => true,
             'shopware.api.cache' => true,
             'shopware.api.category' => true,
             'shopware.api.country' => true,
@@ -1371,6 +1376,9 @@ class ShopwareProductiond75a56cdaa0327c913a5865aa653b1af8ed392d7ProjectContainer
             'shopware_static_content.service.download_service' => true,
             'shopware_static_content.service.esd_service' => true,
             'snippet_resource' => true,
+            'swag_adv_dev_bundle1.filesystem.private' => true,
+            'swag_adv_dev_bundle1.filesystem.public' => true,
+            'swag_adv_dev_bundle1.logger' => true,
             'swag_adv_dev_bundle2.filesystem.private' => true,
             'swag_adv_dev_bundle2.filesystem.public' => true,
             'swag_adv_dev_bundle2.logger' => true,
@@ -1524,6 +1532,7 @@ class ShopwareProductiond75a56cdaa0327c913a5865aa653b1af8ed392d7ProjectContainer
             'service_locator.vxgs2co' => true,
             'shopware.api.address' => true,
             'shopware.api.article' => true,
+            'shopware.api.bundle' => true,
             'shopware.api.cache' => true,
             'shopware.api.category' => true,
             'shopware.api.country' => true,
@@ -1661,6 +1670,11 @@ class ShopwareProductiond75a56cdaa0327c913a5865aa653b1af8ed392d7ProjectContainer
             'shopware_static_content.service.esd_service' => true,
             'slugify' => true,
             'snippet_resource' => true,
+            'swag_adv_dev_bundle1.filesystem.private' => true,
+            'swag_adv_dev_bundle1.filesystem.public' => true,
+            'swag_adv_dev_bundle1.logger' => true,
+            'swag_adv_dev_bundle1.logger_formatter' => true,
+            'swag_adv_dev_bundle1.logger_handler' => true,
             'swag_adv_dev_bundle2.filesystem.private' => true,
             'swag_adv_dev_bundle2.filesystem.public' => true,
             'swag_adv_dev_bundle2.logger' => true,
@@ -7669,6 +7683,13 @@ class ShopwareProductiond75a56cdaa0327c913a5865aa653b1af8ed392d7ProjectContainer
         $instance->setManager(${($_ = isset($this->services['models']) ? $this->services['models'] : $this->get('models')) && false ?: '_'});
         return $instance;
     }
+    protected function getShopware_Api_BundleService()
+    {
+        $this->services['shopware.api.bundle'] = $instance = new \SwagAdvDevBundle2\Components\Api\Resource\Bundle();
+        $instance->setContainer($this);
+        $instance->setManager(${($_ = isset($this->services['models']) ? $this->services['models'] : $this->get('models')) && false ?: '_'});
+        return $instance;
+    }
     protected function getShopware_Api_CacheService()
     {
         $instance = new \Shopware\Components\Api\Resource\Cache();
@@ -8365,6 +8386,23 @@ class ShopwareProductiond75a56cdaa0327c913a5865aa653b1af8ed392d7ProjectContainer
     protected function getSnippetResourceService()
     {
         return $this->services['snippet_resource'] = new \FroshProfiler\Components\Smarty\SnippetResource(${($_ = isset($this->services['snippets']) ? $this->services['snippets'] : $this->get('snippets')) && false ?: '_'}, false);
+    }
+    protected function getSwagAdvDevBundle1_Filesystem_PrivateService()
+    {
+        return $this->services['swag_adv_dev_bundle1.filesystem.private'] = new \Shopware\Components\Filesystem\PrefixFilesystem(${($_ = isset($this->services['shopware.filesystem.private']) ? $this->services['shopware.filesystem.private'] : $this->get('shopware.filesystem.private')) && false ?: '_'}, 'plugins/swag_adv_dev_bundle1');
+    }
+    protected function getSwagAdvDevBundle1_Filesystem_PublicService()
+    {
+        return $this->services['swag_adv_dev_bundle1.filesystem.public'] = new \Shopware\Components\Filesystem\PrefixFilesystem(${($_ = isset($this->services['shopware.filesystem.public']) ? $this->services['shopware.filesystem.public'] : $this->get('shopware.filesystem.public')) && false ?: '_'}, 'plugins/swag_adv_dev_bundle1');
+    }
+    protected function getSwagAdvDevBundle1_LoggerService()
+    {
+        $this->services['swag_adv_dev_bundle1.logger'] = $instance = new \Shopware\Components\Logger('swag_adv_dev_bundle1');
+        $a = new \Monolog\Handler\RotatingFileHandler('/var/www/html/shopware_test/var/log/swag_adv_dev_bundle1_production.log', 14, 400);
+        $a->pushProcessor(${($_ = isset($this->services['monolog.processor.uid']) ? $this->services['monolog.processor.uid'] : $this->get('monolog.processor.uid')) && false ?: '_'});
+        $instance->pushHandler($a);
+        $instance->pushProcessor(new \Monolog\Processor\PsrLogMessageProcessor());
+        return $instance;
     }
     protected function getSwagAdvDevBundle2_Filesystem_PrivateService()
     {
@@ -11964,6 +12002,7 @@ class ShopwareProductiond75a56cdaa0327c913a5865aa653b1af8ed392d7ProjectContainer
                 'SwagEmotionPresets' => '1.0.1',
                 'FroshProfiler' => '1.4.2',
                 'SwagExtendBackend' => '1.1.0',
+                'SwagAdvDevBundle1' => '1.1.0',
                 'SwagAdvDevBundle2' => '1.1.0',
             ),
             'shopware.benchmark_bundle.guzzle_config' => array(
@@ -11983,6 +12022,8 @@ class ShopwareProductiond75a56cdaa0327c913a5865aa653b1af8ed392d7ProjectContainer
             'frosh_profiler.view_dir' => '/var/www/html/shopware_test/custom/plugins/FroshProfiler/Resources/views',
             'frosh_profiler.smarty_dir' => '/var/www/html/shopware_test/custom/plugins/FroshProfiler/Resources/smarty',
             'frosh_profiler.smarty_default_plugin_dir' => '/var/www/html/shopware_test/custom/plugins/FroshProfiler/Components/Smarty/sysplugins/',
+            'swag_adv_dev_bundle1.plugin_dir' => '/var/www/html/shopware_test/custom/plugins/SwagAdvDevBundle1',
+            'swag_adv_dev_bundle1.plugin_name' => 'SwagAdvDevBundle1',
             'swag_adv_dev_bundle2.plugin_dir' => '/var/www/html/shopware_test/custom/plugins/SwagAdvDevBundle2',
             'swag_adv_dev_bundle2.plugin_name' => 'SwagAdvDevBundle2',
             'swag_emotion_presets.plugin_dir' => '/var/www/html/shopware_test/custom/plugins/SwagEmotionPresets',
@@ -13070,6 +13111,8 @@ class ShopwareProductiond75a56cdaa0327c913a5865aa653b1af8ed392d7ProjectContainer
             'shopware.es.version' => '6',
             'frosh_profiler.logger.level' => 400,
             'frosh_profiler.logger.max_files' => 14,
+            'swag_adv_dev_bundle1.logger.level' => 400,
+            'swag_adv_dev_bundle1.logger.max_files' => 14,
             'swag_adv_dev_bundle2.logger.level' => 400,
             'swag_adv_dev_bundle2.logger.max_files' => 14,
             'swag_emotion_presets.logger.level' => 400,

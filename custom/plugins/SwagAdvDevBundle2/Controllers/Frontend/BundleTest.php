@@ -37,11 +37,13 @@ class Shopware_Controllers_Frontend_BundleTest extends Enlight_Controller_Action
      */
     public function createAction()
     {
+
         $data = [
             'name' => $this->getRandomName(),
             'active' => true,
             'products' => [2, 3],
         ];
+
         $bundle = $this->getBundleAPI()->create($data);
         echo "Created bundle with id {$bundle->getId()} named {$bundle->getName()}";
     }
