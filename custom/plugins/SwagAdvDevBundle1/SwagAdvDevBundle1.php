@@ -4,6 +4,12 @@ namespace SwagAdvDevBundle1;
 
 use Doctrine\ORM\Tools\SchemaTool;
 use Shopware\Components\Plugin;
+use Doctrine\Common\EventSubscriber;
+
+use Doctrine\ORM\Event\LifecycleEventArgs;
+use Doctrine\ORM\Events;
+use Shopware\Components\Model\ModelManager;
+use Shopware\Models\Article\Article;
 
 class SwagAdvDevBundle1 extends Plugin
 {
@@ -13,7 +19,8 @@ class SwagAdvDevBundle1 extends Plugin
     public static function getSubscribedEvents()
     {
         return [
-            //  todo implement the bundle model (SwagAdvDevBundle1\Models\Bundle)
+            Events::preUpdate,
+            Events::postUpdate,
         ];
     }
 
@@ -84,5 +91,34 @@ class SwagAdvDevBundle1 extends Plugin
                 $productInsert->execute([':bundleId' => $bundleId, ':productId' => $product]);
             }
         }
+    }
+    /**
+     * @param LifecycleEventArgs $arguments
+     */
+    public function preUpdate(LifecycleEventArgs $arguments)
+    {
+        /** @var ModelManager $modelManager */
+        $modelManager = $arguments->getEntityManager();
+
+        $model = $arguments->getEntity();
+
+        if (!$model instanceof Article) {
+            return;
+        }
+
+        // modify product data
+    }
+
+    /**
+     * @param LifecycleEventArgs $arguments
+     */
+    public function postUpdate(LifecycleEventArgs $arguments)
+    {
+        /** @var ModelManager $modelManager */
+        $modelManager = $arguments->getEntityManager();
+
+        $model = $arguments->getEntity();
+
+        // modify models or do some other fancy stuff
     }
 }
