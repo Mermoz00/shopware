@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.12, created on 2020-09-08 16:09:21
+<?php /* Smarty version Smarty-3.1.12, created on 2020-09-09 09:25:12
          compiled from "/var/www/html/shopware_test/engine/Shopware/Plugins/Community/Core/SwagFrance/Views/backend/index/swag_france/header.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:3904353665f579091aff750-76673097%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:5713573705f588358ab7671-23565027%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -17,15 +17,15 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '3904353665f579091aff750-76673097',
+  'nocache_hash' => '5713573705f588358ab7671-23565027',
   'function' => 
   array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.12',
-  'unifunc' => 'content_5f579091b03538_18218260',
+  'unifunc' => 'content_5f588358abccb3_70815229',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5f579091b03538_18218260')) {function content_5f579091b03538_18218260($_smarty_tpl) {?>/**
+<?php if ($_valid && !is_callable('content_5f588358abccb3_70815229')) {function content_5f588358abccb3_70815229($_smarty_tpl) {?>/**
  * Shopware 5
  * Copyright (c) shopware AG
  *

@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.12, created on 2020-09-08 16:09:23
+<?php /* Smarty version Smarty-3.1.12, created on 2020-09-09 09:25:14
          compiled from "/var/www/html/shopware_test/custom/plugins/SwagExtendBackend/Resources/views/backend/customer/swag_extend_backend/app.js" */ ?>
-<?php /*%%SmartyHeaderCode:2445862735f57909334d052-19503642%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1341566485f58835a180528-06660348%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -35,7 +35,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'snippet',
     ),
   ),
-  'nocache_hash' => '2445862735f57909334d052-19503642',
+  'nocache_hash' => '1341566485f58835a180528-06660348',
   'function' => 
   array (
   ),
@@ -45,9 +45,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.12',
-  'unifunc' => 'content_5f579093367e78_06951390',
+  'unifunc' => 'content_5f58835a196635_77931296',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5f579093367e78_06951390')) {function content_5f579093367e78_06951390($_smarty_tpl) {?>/**
+<?php if ($_valid && !is_callable('content_5f58835a196635_77931296')) {function content_5f58835a196635_77931296($_smarty_tpl) {?>/**
  * Shopware 5
  * Copyright (c) shopware AG
  *
@@ -223,26 +223,26 @@ Ext.define('Shopware.apps.Customer', {
 
 //<?php /*  Call merged included template "backend/customer/swag_extend_backend/store/product.js" */
 $_tpl_stack[] = $_smarty_tpl;
- $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate("backend/customer/swag_extend_backend/store/product.js", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array(), 0, '2445862735f57909334d052-19503642');
-content_5f579093359bc9_29402961($_smarty_tpl);
+ $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate("backend/customer/swag_extend_backend/store/product.js", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array(), 0, '1341566485f58835a180528-06660348');
+content_5f58835a18b045_23765138($_smarty_tpl);
 $_smarty_tpl = array_pop($_tpl_stack); /*  End of included template "backend/customer/swag_extend_backend/store/product.js" */?>
 
 //<?php /*  Call merged included template "backend/customer/swag_extend_backend/model/product.js" */
 $_tpl_stack[] = $_smarty_tpl;
- $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate("backend/customer/swag_extend_backend/model/product.js", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array(), 0, '2445862735f57909334d052-19503642');
-content_5f57909335e6c8_16619722($_smarty_tpl);
+ $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate("backend/customer/swag_extend_backend/model/product.js", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array(), 0, '1341566485f58835a180528-06660348');
+content_5f58835a18e988_02677586($_smarty_tpl);
 $_smarty_tpl = array_pop($_tpl_stack); /*  End of included template "backend/customer/swag_extend_backend/model/product.js" */?>
 
 //<?php /*  Call merged included template "backend/customer/swag_extend_backend/view/detail/product.js" */
 $_tpl_stack[] = $_smarty_tpl;
- $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate("backend/customer/swag_extend_backend/view/detail/product.js", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array(), 0, '2445862735f57909334d052-19503642');
-content_5f5790933627d2_60854286($_smarty_tpl);
+ $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate("backend/customer/swag_extend_backend/view/detail/product.js", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array(), 0, '1341566485f58835a180528-06660348');
+content_5f58835a1922c0_89901473($_smarty_tpl);
 $_smarty_tpl = array_pop($_tpl_stack); /*  End of included template "backend/customer/swag_extend_backend/view/detail/product.js" */?>
 
 //
-//<?php }} ?><?php /* Smarty version Smarty-3.1.12, created on 2020-09-08 16:09:23
+//<?php }} ?><?php /* Smarty version Smarty-3.1.12, created on 2020-09-09 09:25:14
          compiled from "/var/www/html/shopware_test/custom/plugins/SwagExtendBackend/Resources/views/backend/customer/swag_extend_backend/store/product.js" */ ?>
-<?php if ($_valid && !is_callable('content_5f579093359bc9_29402961')) {function content_5f579093359bc9_29402961($_smarty_tpl) {?>// 
+<?php if ($_valid && !is_callable('content_5f58835a18b045_23765138')) {function content_5f58835a18b045_23765138($_smarty_tpl) {?>// 
 Ext.define('Shopware.apps.Customer.swagExtendBackend.store.Product', {
     extend: 'Shopware.store.Listing',
     model: 'Shopware.apps.Customer.swagExtendBackend.model.Product',
@@ -254,9 +254,9 @@ Ext.define('Shopware.apps.Customer.swagExtendBackend.store.Product', {
     }
 });
 // 
-<?php }} ?><?php /* Smarty version Smarty-3.1.12, created on 2020-09-08 16:09:23
+<?php }} ?><?php /* Smarty version Smarty-3.1.12, created on 2020-09-09 09:25:14
          compiled from "/var/www/html/shopware_test/custom/plugins/SwagExtendBackend/Resources/views/backend/customer/swag_extend_backend/model/product.js" */ ?>
-<?php if ($_valid && !is_callable('content_5f57909335e6c8_16619722')) {function content_5f57909335e6c8_16619722($_smarty_tpl) {?>// 
+<?php if ($_valid && !is_callable('content_5f58835a18e988_02677586')) {function content_5f58835a18e988_02677586($_smarty_tpl) {?>// 
 Ext.define('Shopware.apps.Customer.swagExtendBackend.model.Product', {
     extend: 'Shopware.data.Model',
 
@@ -267,9 +267,9 @@ Ext.define('Shopware.apps.Customer.swagExtendBackend.model.Product', {
     ]
 });
 // 
-<?php }} ?><?php /* Smarty version Smarty-3.1.12, created on 2020-09-08 16:09:23
+<?php }} ?><?php /* Smarty version Smarty-3.1.12, created on 2020-09-09 09:25:14
          compiled from "/var/www/html/shopware_test/custom/plugins/SwagExtendBackend/Resources/views/backend/customer/swag_extend_backend/view/detail/product.js" */ ?>
-<?php if ($_valid && !is_callable('content_5f5790933627d2_60854286')) {function content_5f5790933627d2_60854286($_smarty_tpl) {?>// 
+<?php if ($_valid && !is_callable('content_5f58835a1922c0_89901473')) {function content_5f58835a1922c0_89901473($_smarty_tpl) {?>// 
 Ext.define('Shopware.apps.Customer.swagExtendBackend.view.detail.Product', {
     extend: 'Shopware.grid.Panel',
     alias: 'widget.customer-products-grid',
