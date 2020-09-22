@@ -6,6 +6,7 @@ return [
     'username' => 'root',
     'password' => 'Admin@1234',
     'dbname' => 'crgsa',
+    'charset' => 'utf8mb4',
   ],
   'csrfProtection' => [
     'frontend' => false,

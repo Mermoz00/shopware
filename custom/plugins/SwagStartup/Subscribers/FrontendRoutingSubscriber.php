@@ -16,5 +16,6 @@ class FrontendRoutingSubscriber implements SubscriberInterface
     {
         $controller = $args->getSubject();
         $controller->view()->addTemplateDir(__DIR__ . '/../Resources/views');
+        
     }
 }
